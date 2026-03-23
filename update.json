@@ -2097,7 +2097,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Checksum": "AsCqItfrolY=",
+      "Checksum": "/tnPoQ7WFyQ=",
       "Size": 21614
     },
     {
@@ -2324,6 +2324,11 @@
       "Path": "resources/gui/layouts/shared/SettingsWindow.json",
       "Checksum": "zaI1ZKjTXKU=",
       "Size": 299233
+    },
+    {
+      "Path": "resources/images/World.PNG",
+      "Checksum": "Ht7Hn5PsZVQ=",
+      "Size": 877344
     },
     {
       "Path": "resources/items/Advanced Fishing Pole.png",
