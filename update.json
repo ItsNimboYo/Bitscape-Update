@@ -26,11 +26,6 @@
       "Size": 48417793
     },
     {
-      "Path": "license.txt",
-      "Checksum": "gPNy8+HPnE4=",
-      "Size": 1137
-    },
-    {
       "Path": "LiteNetLib.pdb",
       "Checksum": "7XTSyjmfgY0=",
       "Size": 58244
@@ -2326,7 +2321,7 @@
       "Size": 299233
     },
     {
-      "Path": "resources/images/World.PNG",
+      "Path": "resources/images/Map.PNG",
       "Checksum": "Ht7Hn5PsZVQ=",
       "Size": 877344
     },
