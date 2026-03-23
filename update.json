@@ -1,0 +1,5565 @@
+{
+  "Files": [
+    {
+      "Path": "BitScapeLauncher.deps.json",
+      "Checksum": "qcWAwsiUirs=",
+      "Size": 440
+    },
+    {
+      "Path": "BitScapeLauncher.exe",
+      "Checksum": "Qxiy0WOsNIA=",
+      "Size": 351744
+    },
+    {
+      "Path": "BitScapeLauncher.pdb",
+      "Checksum": "O7h/ZrBP8gQ=",
+      "Size": 13872
+    },
+    {
+      "Path": "BitScapeLauncher.runtimeconfig.json",
+      "Checksum": "6Y8nQjBOSSE=",
+      "Size": 515
+    },
+    {
+      "Path": "Intersect Client.exe",
+      "Checksum": "ABo/IcezVwY=",
+      "Size": 48417793
+    },
+    {
+      "Path": "license.txt",
+      "Checksum": "gPNy8+HPnE4=",
+      "Size": 1137
+    },
+    {
+      "Path": "LiteNetLib.pdb",
+      "Checksum": "7XTSyjmfgY0=",
+      "Size": 58244
+    },
+    {
+      "Path": "WeifenLuo.WinFormsUI.Docking.pdb",
+      "Checksum": "0c+d0CxYpwE=",
+      "Size": 105068
+    },
+    {
+      "Path": "WeifenLuo.WinFormsUI.Docking.ThemeVS2015.pdb",
+      "Checksum": "3trc0MI+VzM=",
+      "Size": 39292
+    },
+    {
+      "Path": "resources/client_strings.json",
+      "Checksum": "YZNxAxWjO4Q=",
+      "Size": 36402
+    },
+    {
+      "Path": "resources/config.json",
+      "Checksum": "Prkrd9aOS2Y=",
+      "Size": 1133
+    },
+    {
+      "Path": "resources/credits.json",
+      "Checksum": "x+tOmAW+iZ0=",
+      "Size": 273
+    },
+    {
+      "Path": "resources/animations/Arrow.PNG",
+      "Checksum": "uz6nZI/5AFA=",
+      "Size": 264
+    },
+    {
+      "Path": "resources/animations/beginner staff.png",
+      "Checksum": "ssBoFv/fhLU=",
+      "Size": 768
+    },
+    {
+      "Path": "resources/animations/BladeHit.png",
+      "Checksum": "zhaZy6w9flo=",
+      "Size": 564
+    },
+    {
+      "Path": "resources/animations/Blink.png",
+      "Checksum": "hws8h72xeBM=",
+      "Size": 444
+    },
+    {
+      "Path": "resources/animations/blood.png",
+      "Checksum": "PY0CC3BSVDI=",
+      "Size": 777
+    },
+    {
+      "Path": "resources/animations/Blood1.png",
+      "Checksum": "06yxq7W1uPg=",
+      "Size": 3621
+    },
+    {
+      "Path": "resources/animations/bluebuff.png",
+      "Checksum": "hzLOnm95eyc=",
+      "Size": 1041
+    },
+    {
+      "Path": "resources/animations/Bonetoss.png",
+      "Checksum": "jemcD4mBGoU=",
+      "Size": 546
+    },
+    {
+      "Path": "resources/animations/Bubbles.png",
+      "Checksum": "dfwuAWLTeQk=",
+      "Size": 1541
+    },
+    {
+      "Path": "resources/animations/CampFire.png",
+      "Checksum": "WiTHx4MloHE=",
+      "Size": 8754
+    },
+    {
+      "Path": "resources/animations/Campfire1.png",
+      "Checksum": "ZqM0dLqmV1E=",
+      "Size": 1124
+    },
+    {
+      "Path": "resources/animations/Campfire_Alt.png",
+      "Checksum": "9XBVjVDDuco=",
+      "Size": 919
+    },
+    {
+      "Path": "resources/animations/DeepFreeze.png",
+      "Checksum": "o7b5T78D2MU=",
+      "Size": 19545
+    },
+    {
+      "Path": "resources/animations/Emote_Concern.png",
+      "Checksum": "HB2AMtUUjso=",
+      "Size": 3108
+    },
+    {
+      "Path": "resources/animations/Emote_Laugh.png",
+      "Checksum": "NDvYb9oVky4=",
+      "Size": 3144
+    },
+    {
+      "Path": "resources/animations/Emote_LookAround.png",
+      "Checksum": "dgiTsXXUAvU=",
+      "Size": 3166
+    },
+    {
+      "Path": "resources/animations/Emote_Smile.png",
+      "Checksum": "zVng4mXnziA=",
+      "Size": 3141
+    },
+    {
+      "Path": "resources/animations/Emote_Wink.png",
+      "Checksum": "WVWkhvuFj1U=",
+      "Size": 3168
+    },
+    {
+      "Path": "resources/animations/Fireball.png",
+      "Checksum": "aOv9VGBqqw0=",
+      "Size": 15009
+    },
+    {
+      "Path": "resources/animations/firebuff.png",
+      "Checksum": "ACHBDt7HJQo=",
+      "Size": 3736
+    },
+    {
+      "Path": "resources/animations/FireCast_96x96.png",
+      "Checksum": "dn7qWMuQAkg=",
+      "Size": 33806
+    },
+    {
+      "Path": "resources/animations/Fishcast.png",
+      "Checksum": "zJpSJc1neCk=",
+      "Size": 2248
+    },
+    {
+      "Path": "resources/animations/Froze.png",
+      "Checksum": "0VIghtMe9FE=",
+      "Size": 2631
+    },
+    {
+      "Path": "resources/animations/Heal Friend.png",
+      "Checksum": "BIeeXJzaacQ=",
+      "Size": 432
+    },
+    {
+      "Path": "resources/animations/Healing.png",
+      "Checksum": "D71ZM3zDWdc=",
+      "Size": 3669
+    },
+    {
+      "Path": "resources/animations/Light Healing.png",
+      "Checksum": "kzxEyCGdyhA=",
+      "Size": 360
+    },
+    {
+      "Path": "resources/animations/magicians staff.png",
+      "Checksum": "HqD36yYkq0c=",
+      "Size": 905
+    },
+    {
+      "Path": "resources/animations/Particles.png",
+      "Checksum": "3/Q7w197r8Y=",
+      "Size": 1211
+    },
+    {
+      "Path": "resources/animations/Quest.png",
+      "Checksum": "M8try/lCgQo=",
+      "Size": 2475
+    },
+    {
+      "Path": "resources/animations/rampage.png",
+      "Checksum": "RGSBQHTTwR8=",
+      "Size": 15963
+    },
+    {
+      "Path": "resources/animations/randombuff.png",
+      "Checksum": "ms+Wp9xyxVg=",
+      "Size": 1293
+    },
+    {
+      "Path": "resources/animations/rangedhit.png",
+      "Checksum": "ZcgOCjMwBBc=",
+      "Size": 714
+    },
+    {
+      "Path": "resources/animations/Rings.png",
+      "Checksum": "Vl65ZhIph80=",
+      "Size": 1197
+    },
+    {
+      "Path": "resources/animations/Rings_Reversed.png",
+      "Checksum": "5uVvakfw0gE=",
+      "Size": 1191
+    },
+    {
+      "Path": "resources/animations/Rock.png",
+      "Checksum": "kEgaL8DcuNU=",
+      "Size": 117
+    },
+    {
+      "Path": "resources/animations/skullbash.png",
+      "Checksum": "yOoufcH2KNI=",
+      "Size": 891
+    },
+    {
+      "Path": "resources/animations/SlamHit.png",
+      "Checksum": "cRXYDiXF+kE=",
+      "Size": 1590
+    },
+    {
+      "Path": "resources/animations/Slashing.png",
+      "Checksum": "DG1Th7ArPU4=",
+      "Size": 1701
+    },
+    {
+      "Path": "resources/animations/Slingshot.png",
+      "Checksum": "kEgaL8DcuNU=",
+      "Size": 117
+    },
+    {
+      "Path": "resources/animations/snare.png",
+      "Checksum": "5SJ5OCQ1UWw=",
+      "Size": 9408
+    },
+    {
+      "Path": "resources/animations/Strike.png",
+      "Checksum": "2x6xLq0DiN4=",
+      "Size": 3336
+    },
+    {
+      "Path": "resources/animations/teleport 5frame.png",
+      "Checksum": "SO+UxtmnpSc=",
+      "Size": 6579
+    },
+    {
+      "Path": "resources/animations/teleport.png",
+      "Checksum": "+87bcy+duEs=",
+      "Size": 3744
+    },
+    {
+      "Path": "resources/animations/trishot.png",
+      "Checksum": "9C1KjbF0q7o=",
+      "Size": 240
+    },
+    {
+      "Path": "resources/animations/UE 32.png",
+      "Checksum": "pj2FTDotIRI=",
+      "Size": 7746
+    },
+    {
+      "Path": "resources/animations/UE.png",
+      "Checksum": "5Q7vaISumrg=",
+      "Size": 27549
+    },
+    {
+      "Path": "resources/animations/UE_Jumbo.png",
+      "Checksum": "l0PCU8Oh0sg=",
+      "Size": 242628
+    },
+    {
+      "Path": "resources/entities/BaseFemale.png",
+      "Checksum": "Hndn4yvQmps=",
+      "Size": 4572
+    },
+    {
+      "Path": "resources/entities/BaseMale.png",
+      "Checksum": "865XAEysjbs=",
+      "Size": 10866
+    },
+    {
+      "Path": "resources/entities/Bear.png",
+      "Checksum": "fFmYOpNYUUc=",
+      "Size": 4515
+    },
+    {
+      "Path": "resources/entities/BlackKnight.png",
+      "Checksum": "yC/9p+GSx28=",
+      "Size": 4630
+    },
+    {
+      "Path": "resources/entities/Centaur.png",
+      "Checksum": "Pdly1YgS9uI=",
+      "Size": 18618
+    },
+    {
+      "Path": "resources/entities/Cerberus.png",
+      "Checksum": "R0gxcTLrIec=",
+      "Size": 11769
+    },
+    {
+      "Path": "resources/entities/Dragon.png",
+      "Checksum": "x4rbG+rkO4M=",
+      "Size": 9789
+    },
+    {
+      "Path": "resources/entities/DragonLord.png",
+      "Checksum": "GcNpJ0aSmaM=",
+      "Size": 10029
+    },
+    {
+      "Path": "resources/entities/FrostDragon.png",
+      "Checksum": "Ieo0HeQBVHw=",
+      "Size": 10053
+    },
+    {
+      "Path": "resources/entities/FrostTroll.png",
+      "Checksum": "KAHtT13Jw4w=",
+      "Size": 7687
+    },
+    {
+      "Path": "resources/entities/GiantSpider.png",
+      "Checksum": "Solp4u5+pno=",
+      "Size": 28800
+    },
+    {
+      "Path": "resources/entities/Goose.png",
+      "Checksum": "ZgeW2Itf/y4=",
+      "Size": 2897
+    },
+    {
+      "Path": "resources/entities/Grid-192x256.png",
+      "Checksum": "b7U3f0bLVDs=",
+      "Size": 1221
+    },
+    {
+      "Path": "resources/entities/Grid-304x256.png",
+      "Checksum": "9VI5Y6g8ols=",
+      "Size": 2322
+    },
+    {
+      "Path": "resources/entities/Grid1.png",
+      "Checksum": "kLYx3pI9XrU=",
+      "Size": 678
+    },
+    {
+      "Path": "resources/entities/Grid2.png",
+      "Checksum": "ezxHwWmsZes=",
+      "Size": 534
+    },
+    {
+      "Path": "resources/entities/GrimReaper.png",
+      "Checksum": "4pzSnzxMU/Q=",
+      "Size": 2451
+    },
+    {
+      "Path": "resources/entities/HellHound.png",
+      "Checksum": "dlghF/YW91g=",
+      "Size": 7556
+    },
+    {
+      "Path": "resources/entities/LancerBeetle.png",
+      "Checksum": "OkLk07OVMws=",
+      "Size": 6069
+    },
+    {
+      "Path": "resources/entities/Larva.png",
+      "Checksum": "07i2lBH2vNA=",
+      "Size": 3049
+    },
+    {
+      "Path": "resources/entities/Mummy.png",
+      "Checksum": "MILqzCCxTaE=",
+      "Size": 4032
+    },
+    {
+      "Path": "resources/entities/NPC-Archer.png",
+      "Checksum": "f+7ONBWE1Bo=",
+      "Size": 5727
+    },
+    {
+      "Path": "resources/entities/NPC-Mage.png",
+      "Checksum": "YJgLWOUudvQ=",
+      "Size": 5499
+    },
+    {
+      "Path": "resources/entities/NPC-Warmaster.png",
+      "Checksum": "SlROZqlTaAE=",
+      "Size": 6174
+    },
+    {
+      "Path": "resources/entities/NPC-Warrior.png",
+      "Checksum": "ojDYrt26qI8=",
+      "Size": 5820
+    },
+    {
+      "Path": "resources/entities/Orc.png",
+      "Checksum": "EjcE0FSYRew=",
+      "Size": 10344
+    },
+    {
+      "Path": "resources/entities/OrcWarrior.png",
+      "Checksum": "FFs2l2ga+wU=",
+      "Size": 10581
+    },
+    {
+      "Path": "resources/entities/Rabbit.png",
+      "Checksum": "K+xagAC1cOw=",
+      "Size": 3845
+    },
+    {
+      "Path": "resources/entities/Rat.png",
+      "Checksum": "z1XfXVvVIkU=",
+      "Size": 1569
+    },
+    {
+      "Path": "resources/entities/RotWorm.png",
+      "Checksum": "VCAI0crq8QY=",
+      "Size": 6216
+    },
+    {
+      "Path": "resources/entities/SavageMantis.png",
+      "Checksum": "VhekrsNBQWg=",
+      "Size": 15336
+    },
+    {
+      "Path": "resources/entities/Seeker.png",
+      "Checksum": "TDTjXLjx1T0=",
+      "Size": 12924
+    },
+    {
+      "Path": "resources/entities/Skeleton.png",
+      "Checksum": "96lMBigbaMI=",
+      "Size": 6174
+    },
+    {
+      "Path": "resources/entities/Snake.png",
+      "Checksum": "8Bc6T6fUdd8=",
+      "Size": 1501
+    },
+    {
+      "Path": "resources/entities/SnarlHound.png",
+      "Checksum": "98Hypv8kYWY=",
+      "Size": 6180
+    },
+    {
+      "Path": "resources/entities/StoneGolem.png",
+      "Checksum": "IiqKW4d/bj8=",
+      "Size": 9384
+    },
+    {
+      "Path": "resources/entities/Tiger.png",
+      "Checksum": "pCL6N4FNrq0=",
+      "Size": 17931
+    },
+    {
+      "Path": "resources/entities/Troll.png",
+      "Checksum": "WyV/guOv3ys=",
+      "Size": 5157
+    },
+    {
+      "Path": "resources/entities/Vampire.png",
+      "Checksum": "AF2kGen7OL8=",
+      "Size": 3747
+    },
+    {
+      "Path": "resources/entities/VampireBride.png",
+      "Checksum": "beapVQO5Rpc=",
+      "Size": 6213
+    },
+    {
+      "Path": "resources/entities/Warlock.png",
+      "Checksum": "a03gJ7dlFPY=",
+      "Size": 3825
+    },
+    {
+      "Path": "resources/entities/WereWolf.png",
+      "Checksum": "y63x51eeZkM=",
+      "Size": 5916
+    },
+    {
+      "Path": "resources/entities/Wizard.png",
+      "Checksum": "F0vC8vJHM7c=",
+      "Size": 6843
+    },
+    {
+      "Path": "resources/entities/Wolf.png",
+      "Checksum": "LRgmhRIdR3c=",
+      "Size": 5036
+    },
+    {
+      "Path": "resources/entities/Zombie.png",
+      "Checksum": "MpCYEVMoDAw=",
+      "Size": 3783
+    },
+    {
+      "Path": "resources/fogs/1.png",
+      "Checksum": "kRQ8DIUO6Ig=",
+      "Size": 45089
+    },
+    {
+      "Path": "resources/fogs/10.png",
+      "Checksum": "x8Cg+0YK/xI=",
+      "Size": 42884
+    },
+    {
+      "Path": "resources/fogs/2.png",
+      "Checksum": "lg4grZK1ZQo=",
+      "Size": 1989
+    },
+    {
+      "Path": "resources/fogs/3.png",
+      "Checksum": "T76OI+TmOA0=",
+      "Size": 69134
+    },
+    {
+      "Path": "resources/fogs/4.png",
+      "Checksum": "Fc/61UTtNG4=",
+      "Size": 5501
+    },
+    {
+      "Path": "resources/fogs/5.png",
+      "Checksum": "y8gj+sjU6rY=",
+      "Size": 46468
+    },
+    {
+      "Path": "resources/fogs/6.png",
+      "Checksum": "/VjVkeLpQaU=",
+      "Size": 66903
+    },
+    {
+      "Path": "resources/fogs/7.png",
+      "Checksum": "qFROI13YSdI=",
+      "Size": 76141
+    },
+    {
+      "Path": "resources/fogs/8.png",
+      "Checksum": "/omIuH6LRK0=",
+      "Size": 47615
+    },
+    {
+      "Path": "resources/fogs/9.png",
+      "Checksum": "hR/lUSJhFZg=",
+      "Size": 57040
+    },
+    {
+      "Path": "resources/font/OFL.txt",
+      "Checksum": "EdT82V4RC/A=",
+      "Size": 4513
+    },
+    {
+      "Path": "resources/font/README.txt",
+      "Checksum": "Q+QKVNnwQzU=",
+      "Size": 40
+    },
+    {
+      "Path": "resources/font/SourceSansPro-Black.ttf",
+      "Checksum": "ix50XGFTIhg=",
+      "Size": 265612
+    },
+    {
+      "Path": "resources/font/SourceSansPro-BlackItalic.ttf",
+      "Checksum": "NcSkQ60nOfY=",
+      "Size": 93924
+    },
+    {
+      "Path": "resources/font/SourceSansPro-Bold.ttf",
+      "Checksum": "DPAqBFxQsa8=",
+      "Size": 267388
+    },
+    {
+      "Path": "resources/font/SourceSansPro-BoldItalic.ttf",
+      "Checksum": "uF1OrvHwRBU=",
+      "Size": 94132
+    },
+    {
+      "Path": "resources/font/SourceSansPro-ExtraLight.ttf",
+      "Checksum": "TLHQRvD7lm4=",
+      "Size": 267368
+    },
+    {
+      "Path": "resources/font/SourceSansPro-ExtraLightItalic.ttf",
+      "Checksum": "aZHZ/bkjaTU=",
+      "Size": 95256
+    },
+    {
+      "Path": "resources/font/SourceSansPro-Italic.ttf",
+      "Checksum": "tUAcg/gSvxA=",
+      "Size": 94816
+    },
+    {
+      "Path": "resources/font/SourceSansPro-Light.ttf",
+      "Checksum": "pbkyc4rzGFQ=",
+      "Size": 268588
+    },
+    {
+      "Path": "resources/font/SourceSansPro-LightItalic.ttf",
+      "Checksum": "KJacAOfck5M=",
+      "Size": 95128
+    },
+    {
+      "Path": "resources/font/SourceSansPro-Regular.ttf",
+      "Checksum": "+50wu75b5wk=",
+      "Size": 269108
+    },
+    {
+      "Path": "resources/font/SourceSansPro-SemiBold.ttf",
+      "Checksum": "NeZYRruf/A8=",
+      "Size": 268280
+    },
+    {
+      "Path": "resources/font/SourceSansPro-SemiBoldItalic.ttf",
+      "Checksum": "LEf31vD6/ZM=",
+      "Size": 94512
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_10.xnb",
+      "Checksum": "3hfz+cLgj6k=",
+      "Size": 362102
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_11.xnb",
+      "Checksum": "TVZWsm1DXTo=",
+      "Size": 403062
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_12.xnb",
+      "Checksum": "kwXy9IwddUY=",
+      "Size": 468598
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_14.xnb",
+      "Checksum": "pTMcsbYMHEI=",
+      "Size": 558710
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_16.xnb",
+      "Checksum": "o6TUi6Qh2UU=",
+      "Size": 689782
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_18.xnb",
+      "Checksum": "x75ArLw7MO4=",
+      "Size": 878198
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_20.xnb",
+      "Checksum": "MTYwbFq8jYk=",
+      "Size": 992886
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_22.xnb",
+      "Checksum": "ZuwQsf95bB8=",
+      "Size": 1140342
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_24.xnb",
+      "Checksum": "aytFKKS2r0U=",
+      "Size": 1377910
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_26.xnb",
+      "Checksum": "0c8n2trlRIM=",
+      "Size": 1590902
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_8.xnb",
+      "Checksum": "3/G1i3DnUTM=",
+      "Size": 263798
+    },
+    {
+      "Path": "resources/font/sourcesansproblack_9.xnb",
+      "Checksum": "CxXwexs8h84=",
+      "Size": 312950
+    },
+    {
+      "Path": "resources/font/sourcesanspro_10.xnb",
+      "Checksum": "S6EA/sDNnoI=",
+      "Size": 308854
+    },
+    {
+      "Path": "resources/font/sourcesanspro_11.xnb",
+      "Checksum": "bRY5UfVP3hI=",
+      "Size": 370294
+    },
+    {
+      "Path": "resources/font/sourcesanspro_12.xnb",
+      "Checksum": "k/HY1SZ/xns=",
+      "Size": 423542
+    },
+    {
+      "Path": "resources/font/sourcesanspro_14.xnb",
+      "Checksum": "gZ3SzviH7nk=",
+      "Size": 509558
+    },
+    {
+      "Path": "resources/font/sourcesanspro_16.xnb",
+      "Checksum": "7hHI9cs2dNk=",
+      "Size": 607862
+    },
+    {
+      "Path": "resources/font/sourcesanspro_18.xnb",
+      "Checksum": "TJVXpOP4qWw=",
+      "Size": 738934
+    },
+    {
+      "Path": "resources/font/sourcesanspro_20.xnb",
+      "Checksum": "utF2upa/sNw=",
+      "Size": 910966
+    },
+    {
+      "Path": "resources/font/sourcesanspro_22.xnb",
+      "Checksum": "AFqDoHUOfmc=",
+      "Size": 1017462
+    },
+    {
+      "Path": "resources/font/sourcesanspro_24.xnb",
+      "Checksum": "zN7N7vzhslg=",
+      "Size": 1222262
+    },
+    {
+      "Path": "resources/font/sourcesanspro_26.xnb",
+      "Checksum": "QxELdxT6Jr4=",
+      "Size": 1377910
+    },
+    {
+      "Path": "resources/font/sourcesanspro_8.xnb",
+      "Checksum": "ekRT96l+l5o=",
+      "Size": 259702
+    },
+    {
+      "Path": "resources/font/sourcesanspro_9.xnb",
+      "Checksum": "8/cpsT9xQGM=",
+      "Size": 263798
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-Black.ttf",
+      "Checksum": "ix50XGFTIhg=",
+      "Size": 265612
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-BlackItalic.ttf",
+      "Checksum": "NcSkQ60nOfY=",
+      "Size": 93924
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-Bold.ttf",
+      "Checksum": "DPAqBFxQsa8=",
+      "Size": 267388
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-BoldItalic.ttf",
+      "Checksum": "uF1OrvHwRBU=",
+      "Size": 94132
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-ExtraLight.ttf",
+      "Checksum": "TLHQRvD7lm4=",
+      "Size": 267368
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-ExtraLightItalic.ttf",
+      "Checksum": "aZHZ/bkjaTU=",
+      "Size": 95256
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-Italic.ttf",
+      "Checksum": "tUAcg/gSvxA=",
+      "Size": 94816
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-Light.ttf",
+      "Checksum": "pbkyc4rzGFQ=",
+      "Size": 268588
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-LightItalic.ttf",
+      "Checksum": "KJacAOfck5M=",
+      "Size": 95128
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-Regular.ttf",
+      "Checksum": "+50wu75b5wk=",
+      "Size": 269108
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-SemiBold.ttf",
+      "Checksum": "NeZYRruf/A8=",
+      "Size": 268280
+    },
+    {
+      "Path": "resources/fonts/SourceSansPro-SemiBoldItalic.ttf",
+      "Checksum": "LEf31vD6/ZM=",
+      "Size": 94512
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_10.xnb",
+      "Checksum": "3hfz+cLgj6k=",
+      "Size": 362102
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_11.xnb",
+      "Checksum": "TVZWsm1DXTo=",
+      "Size": 403062
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_12.xnb",
+      "Checksum": "kwXy9IwddUY=",
+      "Size": 468598
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_14.xnb",
+      "Checksum": "pTMcsbYMHEI=",
+      "Size": 558710
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_16.xnb",
+      "Checksum": "o6TUi6Qh2UU=",
+      "Size": 689782
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_18.xnb",
+      "Checksum": "x75ArLw7MO4=",
+      "Size": 878198
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_20.xnb",
+      "Checksum": "MTYwbFq8jYk=",
+      "Size": 992886
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_22.xnb",
+      "Checksum": "ZuwQsf95bB8=",
+      "Size": 1140342
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_24.xnb",
+      "Checksum": "aytFKKS2r0U=",
+      "Size": 1377910
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_26.xnb",
+      "Checksum": "0c8n2trlRIM=",
+      "Size": 1590902
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_8.xnb",
+      "Checksum": "3/G1i3DnUTM=",
+      "Size": 263798
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_9.xnb",
+      "Checksum": "CxXwexs8h84=",
+      "Size": 312950
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_10.xnb",
+      "Checksum": "S6EA/sDNnoI=",
+      "Size": 308854
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_11.xnb",
+      "Checksum": "bRY5UfVP3hI=",
+      "Size": 370294
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_12.xnb",
+      "Checksum": "k/HY1SZ/xns=",
+      "Size": 423542
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_14.xnb",
+      "Checksum": "gZ3SzviH7nk=",
+      "Size": 509558
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_16.xnb",
+      "Checksum": "7hHI9cs2dNk=",
+      "Size": 607862
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_18.xnb",
+      "Checksum": "TJVXpOP4qWw=",
+      "Size": 738934
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_20.xnb",
+      "Checksum": "utF2upa/sNw=",
+      "Size": 910966
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_22.xnb",
+      "Checksum": "AFqDoHUOfmc=",
+      "Size": 1017462
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_24.xnb",
+      "Checksum": "zN7N7vzhslg=",
+      "Size": 1222262
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_26.xnb",
+      "Checksum": "QxELdxT6Jr4=",
+      "Size": 1377910
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_8.xnb",
+      "Checksum": "ekRT96l+l5o=",
+      "Size": 259702
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_9.xnb",
+      "Checksum": "8/cpsT9xQGM=",
+      "Size": 263798
+    },
+    {
+      "Path": "resources/gui/addstatclicked.png",
+      "Checksum": "QTf8nSi/kWs=",
+      "Size": 264
+    },
+    {
+      "Path": "resources/gui/addstathover.png",
+      "Checksum": "+lCsIfQ68Os=",
+      "Size": 250
+    },
+    {
+      "Path": "resources/gui/addstatnormal.png",
+      "Checksum": "8lx54+S5Y60=",
+      "Size": 260
+    },
+    {
+      "Path": "resources/gui/AnnouncementWindow.png",
+      "Checksum": "em00llVfxS4=",
+      "Size": 352
+    },
+    {
+      "Path": "resources/gui/background.png",
+      "Checksum": "9OF/PL08P4U=",
+      "Size": 3157423
+    },
+    {
+      "Path": "resources/gui/bagitem.png",
+      "Checksum": "O2Tqf/kcdyM=",
+      "Size": 254
+    },
+    {
+      "Path": "resources/gui/bankitem.png",
+      "Checksum": "GE+N6Z5uVPI=",
+      "Size": 223
+    },
+    {
+      "Path": "resources/gui/button.arrow_left.active.png",
+      "Checksum": "OFdbczx+hPU=",
+      "Size": 788
+    },
+    {
+      "Path": "resources/gui/button.arrow_left.disabled.png",
+      "Checksum": "XO0d6r80dTo=",
+      "Size": 762
+    },
+    {
+      "Path": "resources/gui/button.arrow_left.hovered.png",
+      "Checksum": "3ByjWCXOU3U=",
+      "Size": 764
+    },
+    {
+      "Path": "resources/gui/button.arrow_left.normal.png",
+      "Checksum": "OFdbczx+hPU=",
+      "Size": 788
+    },
+    {
+      "Path": "resources/gui/button.arrow_right.active.png",
+      "Checksum": "7FmZ5AMzW5o=",
+      "Size": 765
+    },
+    {
+      "Path": "resources/gui/button.arrow_right.disabled.png",
+      "Checksum": "lDYqUKoS3Mc=",
+      "Size": 753
+    },
+    {
+      "Path": "resources/gui/button.arrow_right.hovered.png",
+      "Checksum": "6NS4btnIj/U=",
+      "Size": 766
+    },
+    {
+      "Path": "resources/gui/button.arrow_right.normal.png",
+      "Checksum": "7FmZ5AMzW5o=",
+      "Size": 765
+    },
+    {
+      "Path": "resources/gui/character.png",
+      "Checksum": "kPM8etPhpBs=",
+      "Size": 2115
+    },
+    {
+      "Path": "resources/gui/charactericon.png",
+      "Checksum": "MAHpV7e+7zU=",
+      "Size": 1208
+    },
+    {
+      "Path": "resources/gui/charactericon_hovered.png",
+      "Checksum": "6/IjQkJnKe0=",
+      "Size": 1182
+    },
+    {
+      "Path": "resources/gui/character_preview_background.png",
+      "Checksum": "df2HviBU4Z8=",
+      "Size": 2592
+    },
+    {
+      "Path": "resources/gui/chatbar.png",
+      "Checksum": "VIbAROGswQo=",
+      "Size": 384
+    },
+    {
+      "Path": "resources/gui/chatbox.png",
+      "Checksum": "qkSnQOt3q1c=",
+      "Size": 909
+    },
+    {
+      "Path": "resources/gui/chatbox_channels.png",
+      "Checksum": "hxFe1F+BDLM=",
+      "Size": 180
+    },
+    {
+      "Path": "resources/gui/chatbox_channels_clicked.png",
+      "Checksum": "WsseHK5bWKU=",
+      "Size": 182
+    },
+    {
+      "Path": "resources/gui/chatbox_channels_hover.png",
+      "Checksum": "f6s/FxUiIYg=",
+      "Size": 170
+    },
+    {
+      "Path": "resources/gui/chatbox_clearlog.png",
+      "Checksum": "YslePe3OteE=",
+      "Size": 226
+    },
+    {
+      "Path": "resources/gui/chatbox_clearlog_clicked.png",
+      "Checksum": "yF3uJygWuO8=",
+      "Size": 315
+    },
+    {
+      "Path": "resources/gui/chatbox_clearlog_hover.png",
+      "Checksum": "Rl+LrwC5qAI=",
+      "Size": 323
+    },
+    {
+      "Path": "resources/gui/chatbox_togglelog.png",
+      "Checksum": "SwYzCSpXwWM=",
+      "Size": 243
+    },
+    {
+      "Path": "resources/gui/chatbox_togglelog_clicked.png",
+      "Checksum": "cDvvKE3kiho=",
+      "Size": 213
+    },
+    {
+      "Path": "resources/gui/chatbox_togglelog_hover.png",
+      "Checksum": "8mxU9t9FxEY=",
+      "Size": 351
+    },
+    {
+      "Path": "resources/gui/checkboxempty.png",
+      "Checksum": "SMQwXKql3NY=",
+      "Size": 259
+    },
+    {
+      "Path": "resources/gui/checkboxfull.png",
+      "Checksum": "4e/Vl2Xs114=",
+      "Size": 933
+    },
+    {
+      "Path": "resources/gui/closeclicked.png",
+      "Checksum": "eDM9HY7+s/o=",
+      "Size": 557
+    },
+    {
+      "Path": "resources/gui/closehover.png",
+      "Checksum": "F3aMqzlcIh0=",
+      "Size": 543
+    },
+    {
+      "Path": "resources/gui/closelargeclicked.png",
+      "Checksum": "XsA8r5DK0SY=",
+      "Size": 590
+    },
+    {
+      "Path": "resources/gui/closelargehover.png",
+      "Checksum": "nZvkXz7aB/Y=",
+      "Size": 568
+    },
+    {
+      "Path": "resources/gui/closelargenormal.png",
+      "Checksum": "Np5qJOyBZNQ=",
+      "Size": 589
+    },
+    {
+      "Path": "resources/gui/closenormal.png",
+      "Checksum": "m/jo88X2jZM=",
+      "Size": 563
+    },
+    {
+      "Path": "resources/gui/contextmenu.png",
+      "Checksum": "jSJTcnJyEhw=",
+      "Size": 173
+    },
+    {
+      "Path": "resources/gui/control_button.png",
+      "Checksum": "Th5z0yy4cHY=",
+      "Size": 232
+    },
+    {
+      "Path": "resources/gui/control_button_clicked.png",
+      "Checksum": "JPmYFmpkVM8=",
+      "Size": 235
+    },
+    {
+      "Path": "resources/gui/control_button_hovered.png",
+      "Checksum": "kpRQkaC0iaM=",
+      "Size": 233
+    },
+    {
+      "Path": "resources/gui/craftbar.png",
+      "Checksum": "ROP87lg6pl4=",
+      "Size": 374
+    },
+    {
+      "Path": "resources/gui/crafting.png",
+      "Checksum": "1hqs2ZwmEkg=",
+      "Size": 2823
+    },
+    {
+      "Path": "resources/gui/craftitem.png",
+      "Checksum": "GE+N6Z5uVPI=",
+      "Size": 223
+    },
+    {
+      "Path": "resources/gui/defaultskin.png",
+      "Checksum": "Hi7/kdh76NA=",
+      "Size": 31011
+    },
+    {
+      "Path": "resources/gui/description.png",
+      "Checksum": "PE+UoIBznv4=",
+      "Size": 118
+    },
+    {
+      "Path": "resources/gui/description_divider.png",
+      "Checksum": "aJJ0A7J/sUo=",
+      "Size": 142
+    },
+    {
+      "Path": "resources/gui/description_header.png",
+      "Checksum": "fPkR0K8X3nQ=",
+      "Size": 134
+    },
+    {
+      "Path": "resources/gui/description_headericon.png",
+      "Checksum": "M3kLJd9JDQ4=",
+      "Size": 242
+    },
+    {
+      "Path": "resources/gui/downarrowclicked.png",
+      "Checksum": "smhiFQ6xt2s=",
+      "Size": 267
+    },
+    {
+      "Path": "resources/gui/downarrowhover.png",
+      "Checksum": "lwL9nQb4l+A=",
+      "Size": 285
+    },
+    {
+      "Path": "resources/gui/downarrownormal.png",
+      "Checksum": "Jy7Yl3LAVx8=",
+      "Size": 267
+    },
+    {
+      "Path": "resources/gui/dropdownbg.png",
+      "Checksum": "e4kPxNW7wOc=",
+      "Size": 177
+    },
+    {
+      "Path": "resources/gui/edit_controls_clicked.png",
+      "Checksum": "3fXrTBpmrVw=",
+      "Size": 1347
+    },
+    {
+      "Path": "resources/gui/edit_controls_hovered.png",
+      "Checksum": "VDOVP1myejY=",
+      "Size": 1367
+    },
+    {
+      "Path": "resources/gui/edit_controls_normal.png",
+      "Checksum": "3fXrTBpmrVw=",
+      "Size": 1347
+    },
+    {
+      "Path": "resources/gui/emptybar.png",
+      "Checksum": "u0uQTDrH0S4=",
+      "Size": 671
+    },
+    {
+      "Path": "resources/gui/equipmentitem.png",
+      "Checksum": "M/kPQ3SOy8U=",
+      "Size": 225
+    },
+    {
+      "Path": "resources/gui/equipped.png",
+      "Checksum": "g/OsgjVFDmc=",
+      "Size": 166
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_exitToDesktopButton_Active.png",
+      "Checksum": "lv1o5Z5wa1I=",
+      "Size": 6471
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_exitToDesktopButton_Disabled.png",
+      "Checksum": "A55cc12FBdU=",
+      "Size": 5031
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_exitToDesktopButton_Hovered.png",
+      "Checksum": "KdEXPy0OOyQ=",
+      "Size": 6764
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_exitToDesktopButton_Normal.png",
+      "Checksum": "Z3ga6lBkBuY=",
+      "Size": 5026
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_logoutButton_Active.png",
+      "Checksum": "nIpKZGkZh+c=",
+      "Size": 8058
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_logoutButton_Disabled.png",
+      "Checksum": "unD+DHqfSec=",
+      "Size": 6020
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_logoutButton_Hovered.png",
+      "Checksum": "udNE4jk/U70=",
+      "Size": 8277
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_logoutButton_Normal.png",
+      "Checksum": "G4bC//QDYh4=",
+      "Size": 5872
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_openSettingsButton_Active.png",
+      "Checksum": "lN1IYof/ckY=",
+      "Size": 7962
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_openSettingsButton_Disabled.png",
+      "Checksum": "gpv3A59mPXs=",
+      "Size": 6057
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_openSettingsButton_Hovered.png",
+      "Checksum": "gWg6xgOpLt4=",
+      "Size": 8280
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_openSettingsButton_Normal.png",
+      "Checksum": "wE2Dp3YBGfI=",
+      "Size": 6118
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_returnToCharacterSelectionButton_Active.png",
+      "Checksum": "0SJt9ks0uWo=",
+      "Size": 8033
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_returnToCharacterSelectionButton_Disabled.png",
+      "Checksum": "5w74po1XQPo=",
+      "Size": 6119
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_returnToCharacterSelectionButton_Hovered.png",
+      "Checksum": "Hvj0d2ibQsA=",
+      "Size": 8322
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_returnToCharacterSelectionButton_Normal.png",
+      "Checksum": "awxosWfM14U=",
+      "Size": 5949
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_returnToGameButton_Active.png",
+      "Checksum": "ilpaMSDUDmg=",
+      "Size": 6104
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_returnToGameButton_Disabled.png",
+      "Checksum": "VWsKjg1HXrM=",
+      "Size": 4720
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_returnToGameButton_Hovered.png",
+      "Checksum": "4uYcirwrAKg=",
+      "Size": 6305
+    },
+    {
+      "Path": "resources/gui/EscapeMenuWindow_returnToGameButton_Normal.png",
+      "Checksum": "ywb0m3L20W0=",
+      "Size": 4772
+    },
+    {
+      "Path": "resources/gui/eventresponsecdisabled.png",
+      "Checksum": "Wwz+UPizX8U=",
+      "Size": 375
+    },
+    {
+      "Path": "resources/gui/eventresponseclicked.png",
+      "Checksum": "SkosmbZtnfs=",
+      "Size": 386
+    },
+    {
+      "Path": "resources/gui/eventresponsehover.png",
+      "Checksum": "6GYFr0RlwEo=",
+      "Size": 379
+    },
+    {
+      "Path": "resources/gui/eventresponsenormal.png",
+      "Checksum": "MBnJ8LayTVA=",
+      "Size": 383
+    },
+    {
+      "Path": "resources/gui/expbar.png",
+      "Checksum": "YG3FbRSruS4=",
+      "Size": 2280
+    },
+    {
+      "Path": "resources/gui/friendadd.png",
+      "Checksum": "E2wCKBlFCIg=",
+      "Size": 176
+    },
+    {
+      "Path": "resources/gui/friendoffline.png",
+      "Checksum": "ZP9EhFBDIOQ=",
+      "Size": 239
+    },
+    {
+      "Path": "resources/gui/friendonline.png",
+      "Checksum": "GFarKMUYmpc=",
+      "Size": 239
+    },
+    {
+      "Path": "resources/gui/friendremove.png",
+      "Checksum": "RiyM7dPK4y8=",
+      "Size": 210
+    },
+    {
+      "Path": "resources/gui/friendsicon.png",
+      "Checksum": "lN/N6dBy+qo=",
+      "Size": 1428
+    },
+    {
+      "Path": "resources/gui/friendsicon_hovered.png",
+      "Checksum": "fSnrYJaflvQ=",
+      "Size": 1764
+    },
+    {
+      "Path": "resources/gui/friendtell.png",
+      "Checksum": "iDgGMqStHE8=",
+      "Size": 237
+    },
+    {
+      "Path": "resources/gui/gamemenu.png",
+      "Checksum": "UMWHBUvNqU0=",
+      "Size": 291
+    },
+    {
+      "Path": "resources/gui/guild.png",
+      "Checksum": "JjwpTVdbnSA=",
+      "Size": 1485
+    },
+    {
+      "Path": "resources/gui/guildicon.png",
+      "Checksum": "Ei1//jFUOfE=",
+      "Size": 719
+    },
+    {
+      "Path": "resources/gui/guildicon_hovered.png",
+      "Checksum": "/0JTic9Peeo=",
+      "Size": 1023
+    },
+    {
+      "Path": "resources/gui/hotbar.png",
+      "Checksum": "xQK/+qHiAV8=",
+      "Size": 377
+    },
+    {
+      "Path": "resources/gui/hotbaritem.png",
+      "Checksum": "M/kPQ3SOy8U=",
+      "Size": 225
+    },
+    {
+      "Path": "resources/gui/hotbar_label.png",
+      "Checksum": "g/OsgjVFDmc=",
+      "Size": 166
+    },
+    {
+      "Path": "resources/gui/hpbar.png",
+      "Checksum": "/5zIMBXGYnU=",
+      "Size": 2031
+    },
+    {
+      "Path": "resources/gui/hsliderpip.png",
+      "Checksum": "yM0KoKZ7+0o=",
+      "Size": 174
+    },
+    {
+      "Path": "resources/gui/icon.alert.error.png",
+      "Checksum": "EBq+0/K+Hb4=",
+      "Size": 681
+    },
+    {
+      "Path": "resources/gui/icon.alert.information.png",
+      "Checksum": "1TK+2fQs0M8=",
+      "Size": 506
+    },
+    {
+      "Path": "resources/gui/icon.alert.warning.png",
+      "Checksum": "y0+BvmY4h8g=",
+      "Size": 396
+    },
+    {
+      "Path": "resources/gui/inputfield.png",
+      "Checksum": "RwtRG4ytOyU=",
+      "Size": 443
+    },
+    {
+      "Path": "resources/gui/inputfield_newchar.png",
+      "Checksum": "gNPl6rInpVA=",
+      "Size": 627
+    },
+    {
+      "Path": "resources/gui/inputfield_sliderbar.png",
+      "Checksum": "+1h98PB8n+c=",
+      "Size": 308
+    },
+    {
+      "Path": "resources/gui/inputfield_slim.png",
+      "Checksum": "ctiEWRLqAlo=",
+      "Size": 273
+    },
+    {
+      "Path": "resources/gui/intersect-2021.png",
+      "Checksum": "6w3IJKn0iNI=",
+      "Size": 38168
+    },
+    {
+      "Path": "resources/gui/inventoryicon.png",
+      "Checksum": "q2rDdJLWgHU=",
+      "Size": 804
+    },
+    {
+      "Path": "resources/gui/inventoryicon_hovered.png",
+      "Checksum": "tppZfiIqYrQ=",
+      "Size": 960
+    },
+    {
+      "Path": "resources/gui/inventoryitem.png",
+      "Checksum": "GE+N6Z5uVPI=",
+      "Size": 223
+    },
+    {
+      "Path": "resources/gui/lootwindow.png",
+      "Checksum": "bGTmF05Ux4Q=",
+      "Size": 698
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonCredits.png",
+      "Checksum": "u1wmOa0lE0g=",
+      "Size": 4902
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonCredits_clicked.png",
+      "Checksum": "vubUPlzxlxQ=",
+      "Size": 6595
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonCredits_disabled.png",
+      "Checksum": "N9TX6VfqpA8=",
+      "Size": 4924
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonCredits_hovered.png",
+      "Checksum": "36xfSxNfxV4=",
+      "Size": 6875
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonExit.png",
+      "Checksum": "+g+eutii03M=",
+      "Size": 4353
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonExit_clicked.png",
+      "Checksum": "hj0TPKAxMz0=",
+      "Size": 5937
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonExit_disabled.png",
+      "Checksum": "J9u2RNhAHgk=",
+      "Size": 4329
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonExit_hovered.png",
+      "Checksum": "56pd2fLBBoI=",
+      "Size": 6177
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonLogin.png",
+      "Checksum": "GbfBY91pB78=",
+      "Size": 4553
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonLogin_clicked.png",
+      "Checksum": "LhZMX4x9gv0=",
+      "Size": 6321
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonLogin_disabled.png",
+      "Checksum": "09g/RVxUf5c=",
+      "Size": 4589
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonLogin_hovered.png",
+      "Checksum": "kHPYLy0DmlY=",
+      "Size": 6586
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonRegister.png",
+      "Checksum": "Dkyv+0US5Bo=",
+      "Size": 6054
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonRegister_clicked.png",
+      "Checksum": "pKMvNbdHpiQ=",
+      "Size": 8633
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonRegister_disabled.png",
+      "Checksum": "1YVm0AedSd4=",
+      "Size": 6105
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonRegister_hovered.png",
+      "Checksum": "MGKF/MDask4=",
+      "Size": 8958
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonSettings.png",
+      "Checksum": "nfbMHzf4YSw=",
+      "Size": 6324
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonSettings_clicked.png",
+      "Checksum": "FQngXMAHxjg=",
+      "Size": 9030
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonSettings_disabled.png",
+      "Checksum": "QXA7SI9aWVc=",
+      "Size": 6313
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonSettings_hovered.png",
+      "Checksum": "8gJujWFP0nU=",
+      "Size": 9315
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonStart.png",
+      "Checksum": "UcE52mmE/zM=",
+      "Size": 4325
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonStart_clicked.png",
+      "Checksum": "XF695E19x78=",
+      "Size": 8076
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonStart_disabled.png",
+      "Checksum": "iZkW91wQW9k=",
+      "Size": 4255
+    },
+    {
+      "Path": "resources/gui/mainmenu_buttonStart_hovered.png",
+      "Checksum": "EVU49JEjg1o=",
+      "Size": 8217
+    },
+    {
+      "Path": "resources/gui/manabar.png",
+      "Checksum": "jFn7BojkHIg=",
+      "Size": 5304
+    },
+    {
+      "Path": "resources/gui/mapicon.png",
+      "Checksum": "7QBmCuQ0Rl8=",
+      "Size": 2119
+    },
+    {
+      "Path": "resources/gui/menuicon.png",
+      "Checksum": "G9EH+ncBuj0=",
+      "Size": 192
+    },
+    {
+      "Path": "resources/gui/menuicon_hovered.png",
+      "Checksum": "x8wLzGLPOwk=",
+      "Size": 218
+    },
+    {
+      "Path": "resources/gui/menuitem.png",
+      "Checksum": "M/kPQ3SOy8U=",
+      "Size": 225
+    },
+    {
+      "Path": "resources/gui/partyicon.png",
+      "Checksum": "nW0EHHl2Vfw=",
+      "Size": 1728
+    },
+    {
+      "Path": "resources/gui/partyicon_hovered.png",
+      "Checksum": "/2V2Mqhyx28=",
+      "Size": 2259
+    },
+    {
+      "Path": "resources/gui/player_window.png",
+      "Checksum": "L9RgqT5Riks=",
+      "Size": 1008
+    },
+    {
+      "Path": "resources/gui/quantity.png",
+      "Checksum": "g/OsgjVFDmc=",
+      "Size": 166
+    },
+    {
+      "Path": "resources/gui/questoffer.png",
+      "Checksum": "7UBirpoZIDE=",
+      "Size": 2724
+    },
+    {
+      "Path": "resources/gui/questsicon.png",
+      "Checksum": "BozgxJHjyNk=",
+      "Size": 1395
+    },
+    {
+      "Path": "resources/gui/questsicon_hovered.png",
+      "Checksum": "mQVCwClu3g8=",
+      "Size": 1686
+    },
+    {
+      "Path": "resources/gui/scrollbarbg.png",
+      "Checksum": "AQ7+ALix1NY=",
+      "Size": 163
+    },
+    {
+      "Path": "resources/gui/scrollbarclicked.png",
+      "Checksum": "RkzQwYTm3VE=",
+      "Size": 163
+    },
+    {
+      "Path": "resources/gui/scrollbarhover.png",
+      "Checksum": "j4iGwCrcYPw=",
+      "Size": 163
+    },
+    {
+      "Path": "resources/gui/scrollbarnormal.png",
+      "Checksum": "OI9aDts45pM=",
+      "Size": 163
+    },
+    {
+      "Path": "resources/gui/SettingsWindow.icon.png",
+      "Checksum": "3KZOEQZ7FsM=",
+      "Size": 1853
+    },
+    {
+      "Path": "resources/gui/settings_window.png",
+      "Checksum": "DcykI+tnxik=",
+      "Size": 1947
+    },
+    {
+      "Path": "resources/gui/shieldbar.png",
+      "Checksum": "FjnvK/XOHXc=",
+      "Size": 644
+    },
+    {
+      "Path": "resources/gui/shopitem.png",
+      "Checksum": "GE+N6Z5uVPI=",
+      "Size": 223
+    },
+    {
+      "Path": "resources/gui/skin-intersect.png",
+      "Checksum": "VGmr2VDOV0k=",
+      "Size": 21063
+    },
+    {
+      "Path": "resources/gui/smallbutton.png",
+      "Checksum": "e6hEeiOQOuo=",
+      "Size": 234
+    },
+    {
+      "Path": "resources/gui/smallbutton_clicked.png",
+      "Checksum": "EMWDIwW4uSk=",
+      "Size": 238
+    },
+    {
+      "Path": "resources/gui/smallbutton_disabled.png",
+      "Checksum": "soOAQTWOMMo=",
+      "Size": 246
+    },
+    {
+      "Path": "resources/gui/smallbutton_hovered.png",
+      "Checksum": "LtUhZtulrmw=",
+      "Size": 247
+    },
+    {
+      "Path": "resources/gui/smalltab.png",
+      "Checksum": "Zo1nDfInfsM=",
+      "Size": 241
+    },
+    {
+      "Path": "resources/gui/smalltab_clicked.png",
+      "Checksum": "oUMgF7ez3ns=",
+      "Size": 229
+    },
+    {
+      "Path": "resources/gui/smalltab_disabled.png",
+      "Checksum": "AuOiCP0ZqE0=",
+      "Size": 234
+    },
+    {
+      "Path": "resources/gui/smalltab_hovered.png",
+      "Checksum": "eVbCePzuGAI=",
+      "Size": 234
+    },
+    {
+      "Path": "resources/gui/spelldesc.png",
+      "Checksum": "8Z4jvvoxCmE=",
+      "Size": 953
+    },
+    {
+      "Path": "resources/gui/spelldescexpanded.png",
+      "Checksum": "fwSonZD6hJg=",
+      "Size": 1246
+    },
+    {
+      "Path": "resources/gui/spellicon.png",
+      "Checksum": "s8tAz2CTnAg=",
+      "Size": 1785
+    },
+    {
+      "Path": "resources/gui/spellicon_hovered.png",
+      "Checksum": "cXs/LMrD7ZA=",
+      "Size": 2157
+    },
+    {
+      "Path": "resources/gui/spellitem.png",
+      "Checksum": "GE+N6Z5uVPI=",
+      "Size": 223
+    },
+    {
+      "Path": "resources/gui/status.png",
+      "Checksum": "M/kPQ3SOy8U=",
+      "Size": 225
+    },
+    {
+      "Path": "resources/gui/statusbg.png",
+      "Checksum": "ZtY2HreN3og=",
+      "Size": 581
+    },
+    {
+      "Path": "resources/gui/status_window.png",
+      "Checksum": "e+/he6Qh2lk=",
+      "Size": 343
+    },
+    {
+      "Path": "resources/gui/target_window.png",
+      "Checksum": "+P+SOVrHItg=",
+      "Size": 757
+    },
+    {
+      "Path": "resources/gui/texturepanel.png",
+      "Checksum": "gCIOkeFnZvY=",
+      "Size": 256
+    },
+    {
+      "Path": "resources/gui/tooltip.png",
+      "Checksum": "zPNforexCx0=",
+      "Size": 203
+    },
+    {
+      "Path": "resources/gui/trade.png",
+      "Checksum": "HwRia9vw79s=",
+      "Size": 2248
+    },
+    {
+      "Path": "resources/gui/tradeitem.png",
+      "Checksum": "GE+N6Z5uVPI=",
+      "Size": 223
+    },
+    {
+      "Path": "resources/gui/uparrowclicked.png",
+      "Checksum": "n0q0uSmZe94=",
+      "Size": 254
+    },
+    {
+      "Path": "resources/gui/uparrowhover.png",
+      "Checksum": "k8ppfs/w5ew=",
+      "Size": 275
+    },
+    {
+      "Path": "resources/gui/uparrownormal.png",
+      "Checksum": "PF3P5HcNLvI=",
+      "Size": 254
+    },
+    {
+      "Path": "resources/gui/uparrownormal_medium.png",
+      "Checksum": "xeNH8rarkOc=",
+      "Size": 282
+    },
+    {
+      "Path": "resources/gui/volume_bar.png",
+      "Checksum": "wl7NTXBVdrM=",
+      "Size": 549
+    },
+    {
+      "Path": "resources/gui/volume_slider.png",
+      "Checksum": "Rwrf/jOAhbg=",
+      "Size": 260
+    },
+    {
+      "Path": "resources/gui/volume_slider_hovered.png",
+      "Checksum": "D2NwbnN6zEk=",
+      "Size": 290
+    },
+    {
+      "Path": "resources/gui/layouts/debug/DebugWindow.json",
+      "Checksum": "bw6r4dVa2S4=",
+      "Size": 214890
+    },
+    {
+      "Path": "resources/gui/layouts/game/AdminWindow.json",
+      "Checksum": "EUFDIylnnZM=",
+      "Size": 91636
+    },
+    {
+      "Path": "resources/gui/layouts/game/AnnouncementWindow.json",
+      "Checksum": "L25AA+b5g/w=",
+      "Size": 1691
+    },
+    {
+      "Path": "resources/gui/layouts/game/BagContextMenu.json",
+      "Checksum": "VAZf7Eha6mA=",
+      "Size": 8274
+    },
+    {
+      "Path": "resources/gui/layouts/game/BagItem.json",
+      "Checksum": "0ErK97LSOBE=",
+      "Size": 2361
+    },
+    {
+      "Path": "resources/gui/layouts/game/BagWindow.json",
+      "Checksum": "T0yAgI4p+eE=",
+      "Size": 15617
+    },
+    {
+      "Path": "resources/gui/layouts/game/BankContextMenu.json",
+      "Checksum": "CSGXX0oAhqc=",
+      "Size": 8565
+    },
+    {
+      "Path": "resources/gui/layouts/game/BankItem.json",
+      "Checksum": "+f2GwkSySOQ=",
+      "Size": 2446
+    },
+    {
+      "Path": "resources/gui/layouts/game/BankWindow.json",
+      "Checksum": "FAWqZsqWZC0=",
+      "Size": 15617
+    },
+    {
+      "Path": "resources/gui/layouts/game/BanMuteWindow.json",
+      "Checksum": "wIe8C8A3WP8=",
+      "Size": 36814
+    },
+    {
+      "Path": "resources/gui/layouts/game/CharacterWindow.json",
+      "Checksum": "6GqYSIcdJSw=",
+      "Size": 33920
+    },
+    {
+      "Path": "resources/gui/layouts/game/ChatboxWindow.json",
+      "Checksum": "t+3/zjtoP9A=",
+      "Size": 41529
+    },
+    {
+      "Path": "resources/gui/layouts/game/ChatContextMenu.json",
+      "Checksum": "FsoZkBGK9Xo=",
+      "Size": 8710
+    },
+    {
+      "Path": "resources/gui/layouts/game/CraftedItem.json",
+      "Checksum": "p358cfUS03E=",
+      "Size": 2507
+    },
+    {
+      "Path": "resources/gui/layouts/game/CraftingIngredient.json",
+      "Checksum": "OxlkQ2dYY9Y=",
+      "Size": 2507
+    },
+    {
+      "Path": "resources/gui/layouts/game/CraftingWindow.json",
+      "Checksum": "iVMlMoGRp/8=",
+      "Size": 38456
+    },
+    {
+      "Path": "resources/gui/layouts/game/DescriptionWindow.json",
+      "Checksum": "iwpZ/StOWkc=",
+      "Size": 664
+    },
+    {
+      "Path": "resources/gui/layouts/game/DescriptionWindowDescription.json",
+      "Checksum": "BcoHpSaIEtw=",
+      "Size": 1353
+    },
+    {
+      "Path": "resources/gui/layouts/game/DescriptionWindowDivider.json",
+      "Checksum": "M4eeggP9Cqw=",
+      "Size": 677
+    },
+    {
+      "Path": "resources/gui/layouts/game/DescriptionWindowHeader.json",
+      "Checksum": "/AlwyFFHXm0=",
+      "Size": 5312
+    },
+    {
+      "Path": "resources/gui/layouts/game/DescriptionWindowRowContainer.json",
+      "Checksum": "JH5Y17eWGg4=",
+      "Size": 3681
+    },
+    {
+      "Path": "resources/gui/layouts/game/Draggable.json",
+      "Checksum": "a+4B84vXqY4=",
+      "Size": 640
+    },
+    {
+      "Path": "resources/gui/layouts/game/EquipmentItem.json",
+      "Checksum": "DcIfb+D2Cdo=",
+      "Size": 1076
+    },
+    {
+      "Path": "resources/gui/layouts/game/EscapeMenu.json",
+      "Checksum": "GvFb22EY78c=",
+      "Size": 8287
+    },
+    {
+      "Path": "resources/gui/layouts/game/EscapeMenuWindow_online.json",
+      "Checksum": "rb2pSsPzLww=",
+      "Size": 12900
+    },
+    {
+      "Path": "resources/gui/layouts/game/EventDialogWindow_1Response.json",
+      "Checksum": "2Y/dEU8zoYo=",
+      "Size": 28921
+    },
+    {
+      "Path": "resources/gui/layouts/game/EventDialogWindow_3Responses.json",
+      "Checksum": "/QpFDqXHs6M=",
+      "Size": 28922
+    },
+    {
+      "Path": "resources/gui/layouts/game/EventDialogWindow_4Responses.json",
+      "Checksum": "T1b0H03Zx0M=",
+      "Size": 29065
+    },
+    {
+      "Path": "resources/gui/layouts/game/EventWindow.json",
+      "Checksum": "4qn5HfNN2Rw=",
+      "Size": 27436
+    },
+    {
+      "Path": "resources/gui/layouts/game/FriendRow.json",
+      "Checksum": "YflV2nz815g=",
+      "Size": 6515
+    },
+    {
+      "Path": "resources/gui/layouts/game/FriendsWindow.json",
+      "Checksum": "6KPF43Uq3Js=",
+      "Size": 19009
+    },
+    {
+      "Path": "resources/gui/layouts/game/GuildContextMenu.json",
+      "Checksum": "EwjQeGvtvJI=",
+      "Size": 8710
+    },
+    {
+      "Path": "resources/gui/layouts/game/GuildMemberRow.json",
+      "Checksum": "n8ZZLceVYPY=",
+      "Size": 1455
+    },
+    {
+      "Path": "resources/gui/layouts/game/GuildWindow.json",
+      "Checksum": "jip1QM+L2Do=",
+      "Size": 22521
+    },
+    {
+      "Path": "resources/gui/layouts/game/HotbarWindow.json",
+      "Checksum": "aYokjbe62LI=",
+      "Size": 61207
+    },
+    {
+      "Path": "resources/gui/layouts/game/InventoryContextMenu.json",
+      "Checksum": "kN4LMXucels=",
+      "Size": 8566
+    },
+    {
+      "Path": "resources/gui/layouts/game/InventoryItem.json",
+      "Checksum": "E4dOiVNg4Jw=",
+      "Size": 5154
+    },
+    {
+      "Path": "resources/gui/layouts/game/InventoryWindow.json",
+      "Checksum": "JjfMvLqhB/g=",
+      "Size": 15626
+    },
+    {
+      "Path": "resources/gui/layouts/game/MapItemIcon.json",
+      "Checksum": "SxoPkM5ulGo=",
+      "Size": 2534
+    },
+    {
+      "Path": "resources/gui/layouts/game/MapItemWindow.json",
+      "Checksum": "pM19PTBdssU=",
+      "Size": 12789
+    },
+    {
+      "Path": "resources/gui/layouts/game/MenuContainer.json",
+      "Checksum": "t2k6XejyGdw=",
+      "Size": 18608
+    },
+    {
+      "Path": "resources/gui/layouts/game/PartyWindow.json",
+      "Checksum": "uv1YkIpFR0I=",
+      "Size": 48034
+    },
+    {
+      "Path": "resources/gui/layouts/game/PlayerBox.json",
+      "Checksum": "kwbMfsjN2Ns=",
+      "Size": 19628
+    },
+    {
+      "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
+      "Checksum": "6nX90U8NGsA=",
+      "Size": 2246
+    },
+    {
+      "Path": "resources/gui/layouts/game/PlayerStatusWindow.json",
+      "Checksum": "qJWHLXOHiTE=",
+      "Size": 10410
+    },
+    {
+      "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
+      "Checksum": "AsCqItfrolY=",
+      "Size": 21614
+    },
+    {
+      "Path": "resources/gui/layouts/game/QuestsWindow.json",
+      "Checksum": "C+rIYWJlU3U=",
+      "Size": 32450
+    },
+    {
+      "Path": "resources/gui/layouts/game/ShopContextMenu.json",
+      "Checksum": "VAZf7Eha6mA=",
+      "Size": 8274
+    },
+    {
+      "Path": "resources/gui/layouts/game/ShopItem.json",
+      "Checksum": "Fh4jblRp1q0=",
+      "Size": 1439
+    },
+    {
+      "Path": "resources/gui/layouts/game/ShopWindow.json",
+      "Checksum": "++j1hR5/9Qw=",
+      "Size": 15154
+    },
+    {
+      "Path": "resources/gui/layouts/game/SimplifiedEscapeMenu.json",
+      "Checksum": "XLs4wUtH4zM=",
+      "Size": 8768
+    },
+    {
+      "Path": "resources/gui/layouts/game/SkillsWindow.json",
+      "Checksum": "AZfQekVHP9A=",
+      "Size": 1605
+    },
+    {
+      "Path": "resources/gui/layouts/game/Spell.json",
+      "Checksum": "DAcLyosXquI=",
+      "Size": 2595
+    },
+    {
+      "Path": "resources/gui/layouts/game/SpellContextMenu.json",
+      "Checksum": "cpiJSBTumdA=",
+      "Size": 8566
+    },
+    {
+      "Path": "resources/gui/layouts/game/SpellItem.json",
+      "Checksum": "YZJzI+XeKBA=",
+      "Size": 2444
+    },
+    {
+      "Path": "resources/gui/layouts/game/SpellStatusIcon.json",
+      "Checksum": "gOfHDYbu6d4=",
+      "Size": 2463
+    },
+    {
+      "Path": "resources/gui/layouts/game/SpellsWindow.json",
+      "Checksum": "dG2ft8LdgF8=",
+      "Size": 15628
+    },
+    {
+      "Path": "resources/gui/layouts/game/TargetBox.1024x720.json",
+      "Checksum": "1dKevc0KtDU=",
+      "Size": 31638
+    },
+    {
+      "Path": "resources/gui/layouts/game/TargetBox.1024x768.json",
+      "Checksum": "1dKevc0KtDU=",
+      "Size": 31638
+    },
+    {
+      "Path": "resources/gui/layouts/game/TargetBox.800x600.json",
+      "Checksum": "1dKevc0KtDU=",
+      "Size": 31638
+    },
+    {
+      "Path": "resources/gui/layouts/game/TargetBox.json",
+      "Checksum": "QH8AdBnfB/A=",
+      "Size": 33519
+    },
+    {
+      "Path": "resources/gui/layouts/game/TargetContextMenu.json",
+      "Checksum": "e8AnlRqbUHU=",
+      "Size": 8709
+    },
+    {
+      "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
+      "Checksum": "KHygYUkBMkY=",
+      "Size": 2064
+    },
+    {
+      "Path": "resources/gui/layouts/game/TheirTradeItem.json",
+      "Checksum": "k/zESpEKQSk=",
+      "Size": 2120
+    },
+    {
+      "Path": "resources/gui/layouts/game/TradeContextMenu.json",
+      "Checksum": "UFXnRJzB7t8=",
+      "Size": 8714
+    },
+    {
+      "Path": "resources/gui/layouts/game/TradeWindow.json",
+      "Checksum": "ygMJm6lOCVo=",
+      "Size": 29983
+    },
+    {
+      "Path": "resources/gui/layouts/game/YourTradeItem.json",
+      "Checksum": "EWB6gV2OL6s=",
+      "Size": 2173
+    },
+    {
+      "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
+      "Checksum": "mAfzh+gIyqA=",
+      "Size": 45340
+    },
+    {
+      "Path": "resources/gui/layouts/menu/CharacterSelectionWindow.json",
+      "Checksum": "A/uxCk6iC7s=",
+      "Size": 12023
+    },
+    {
+      "Path": "resources/gui/layouts/menu/CreditsWindow.json",
+      "Checksum": "3KEiiMyVpAE=",
+      "Size": 17176
+    },
+    {
+      "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
+      "Checksum": "UycS08lV/u8=",
+      "Size": 26126
+    },
+    {
+      "Path": "resources/gui/layouts/menu/LoginWindow.json",
+      "Checksum": "+lUflWKTcS4=",
+      "Size": 23040
+    },
+    {
+      "Path": "resources/gui/layouts/menu/Logo.json",
+      "Checksum": "R/OGmI1bbqQ=",
+      "Size": 682
+    },
+    {
+      "Path": "resources/gui/layouts/menu/MainMenuWindow_online.json",
+      "Checksum": "IFR+5yKx2LM=",
+      "Size": 13804
+    },
+    {
+      "Path": "resources/gui/layouts/menu/MainMenuWindow_singleplayer.json",
+      "Checksum": "opd2ecZNbX0=",
+      "Size": 11548
+    },
+    {
+      "Path": "resources/gui/layouts/menu/PasswordChangeWindowExistingPassword.json",
+      "Checksum": "xv03iHH7QZI=",
+      "Size": 20108
+    },
+    {
+      "Path": "resources/gui/layouts/menu/PasswordChangeWindowResetToken.json",
+      "Checksum": "xv03iHH7QZI=",
+      "Size": 20108
+    },
+    {
+      "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
+      "Checksum": "thNgH+Ff1YQ=",
+      "Size": 23545
+    },
+    {
+      "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
+      "Checksum": "zqHmo0KKbZ4=",
+      "Size": 13164
+    },
+    {
+      "Path": "resources/gui/layouts/menu/SelectCharacterWindow.json",
+      "Checksum": "hHqDdaROgOg=",
+      "Size": 20009
+    },
+    {
+      "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
+      "Checksum": "PBtlYutnqlw=",
+      "Size": 1687
+    },
+    {
+      "Path": "resources/gui/layouts/shared/AlertWindow_Okay.json",
+      "Checksum": "OLryjJYVNLk=",
+      "Size": 21368
+    },
+    {
+      "Path": "resources/gui/layouts/shared/AlertWindow_YesNo.json",
+      "Checksum": "6RF7Kncl0ao=",
+      "Size": 22844
+    },
+    {
+      "Path": "resources/gui/layouts/shared/InputBox.json",
+      "Checksum": "GzsV3ZMlaH4=",
+      "Size": 2
+    },
+    {
+      "Path": "resources/gui/layouts/shared/InputBox_NumericInput.json",
+      "Checksum": "3zRVmOqZX8w=",
+      "Size": 23352
+    },
+    {
+      "Path": "resources/gui/layouts/shared/InputBox_NumericSliderInput.json",
+      "Checksum": "uBHd+yhKs/4=",
+      "Size": 28366
+    },
+    {
+      "Path": "resources/gui/layouts/shared/InputBox_Okay.json",
+      "Checksum": "Ap6WlnIupRg=",
+      "Size": 20379
+    },
+    {
+      "Path": "resources/gui/layouts/shared/InputBox_TextInput.json",
+      "Checksum": "UpSg9ldxKv8=",
+      "Size": 24019
+    },
+    {
+      "Path": "resources/gui/layouts/shared/InputBox_YesNo.json",
+      "Checksum": "gvJOIRWVfkU=",
+      "Size": 22820
+    },
+    {
+      "Path": "resources/gui/layouts/shared/InputBox_YesNoCancel.json",
+      "Checksum": "emQW+2tadMA=",
+      "Size": 23611
+    },
+    {
+      "Path": "resources/gui/layouts/shared/SettingsWindow.json",
+      "Checksum": "zaI1ZKjTXKU=",
+      "Size": 299233
+    },
+    {
+      "Path": "resources/items/Advanced Fishing Pole.png",
+      "Checksum": "yuS3dOJ6e1c=",
+      "Size": 298
+    },
+    {
+      "Path": "resources/items/Advanced Pickaxe.png",
+      "Checksum": "qtylUJ9VdEQ=",
+      "Size": 242
+    },
+    {
+      "Path": "resources/items/Archer Spellbook.png",
+      "Checksum": "MSnvyhB/UuU=",
+      "Size": 306
+    },
+    {
+      "Path": "resources/items/Arrow.PNG",
+      "Checksum": "uz6nZI/5AFA=",
+      "Size": 264
+    },
+    {
+      "Path": "resources/items/BeastBow.png",
+      "Checksum": "j1Db7AEzjVY=",
+      "Size": 456
+    },
+    {
+      "Path": "resources/items/Beginner's Staff.png",
+      "Checksum": "1gJLl0FwXus=",
+      "Size": 153
+    },
+    {
+      "Path": "resources/items/BOH.png",
+      "Checksum": "g/+/ByEhkPQ=",
+      "Size": 243
+    },
+    {
+      "Path": "resources/items/BOW.PNG",
+      "Checksum": "yX3Mz7zeoTE=",
+      "Size": 263
+    },
+    {
+      "Path": "resources/items/Bronze Armor.png",
+      "Checksum": "PTQGhSMRlMA=",
+      "Size": 337
+    },
+    {
+      "Path": "resources/items/Bronze Battleaxe.png",
+      "Checksum": "Y/FFp9MgO5s=",
+      "Size": 224
+    },
+    {
+      "Path": "resources/items/Bronze Dagger.png",
+      "Checksum": "xRMCRkeO/TE=",
+      "Size": 185
+    },
+    {
+      "Path": "resources/items/Bronze Hatchet.png",
+      "Checksum": "wQg1+vOMBbg=",
+      "Size": 204
+    },
+    {
+      "Path": "resources/items/Bronze Helmet.png",
+      "Checksum": "twLh8DQMRcU=",
+      "Size": 251
+    },
+    {
+      "Path": "resources/items/Bronze Mage Hood.png",
+      "Checksum": "9rBg3tKLJaQ=",
+      "Size": 225
+    },
+    {
+      "Path": "resources/items/Bronze Pickaxe.png",
+      "Checksum": "cEJZfIfXs0Y=",
+      "Size": 393
+    },
+    {
+      "Path": "resources/items/Bronze Shield.png",
+      "Checksum": "9UMEwwH9Trw=",
+      "Size": 303
+    },
+    {
+      "Path": "resources/items/Bronze Shortsword.png",
+      "Checksum": "7zvqcC2tPkM=",
+      "Size": 201
+    },
+    {
+      "Path": "resources/items/Bronze Sword.png",
+      "Checksum": "iw7u9AEMrlU=",
+      "Size": 202
+    },
+    {
+      "Path": "resources/items/BronzeBar.png",
+      "Checksum": "91pY+b56/rw=",
+      "Size": 1190
+    },
+    {
+      "Path": "resources/items/BronzeOre.png",
+      "Checksum": "x0OYFeF+dpw=",
+      "Size": 1353
+    },
+    {
+      "Path": "resources/items/Clownfish.png",
+      "Checksum": "lxn++tDExtc=",
+      "Size": 363
+    },
+    {
+      "Path": "resources/items/Collosal Archer Armor.png",
+      "Checksum": "PFXURnoO5Ls=",
+      "Size": 482
+    },
+    {
+      "Path": "resources/items/Collosal Archer Helmet.png",
+      "Checksum": "oxQpaha7quA=",
+      "Size": 335
+    },
+    {
+      "Path": "resources/items/Collosal Armor.png",
+      "Checksum": "ucx3/FUAgZs=",
+      "Size": 465
+    },
+    {
+      "Path": "resources/items/Collosal Helmet.png",
+      "Checksum": "1uhk3H7hGRU=",
+      "Size": 291
+    },
+    {
+      "Path": "resources/items/Collosal Mage Armor.png",
+      "Checksum": "fyvNJZCqlyE=",
+      "Size": 493
+    },
+    {
+      "Path": "resources/items/Collosal Mage Helmet.png",
+      "Checksum": "xVphYFxZLk4=",
+      "Size": 345
+    },
+    {
+      "Path": "resources/items/CookedClownFish.png",
+      "Checksum": "7yzqE5zK0aw=",
+      "Size": 408
+    },
+    {
+      "Path": "resources/items/CookedHerring.png",
+      "Checksum": "EG7CbmPqxls=",
+      "Size": 374
+    },
+    {
+      "Path": "resources/items/CookedMarlin.png",
+      "Checksum": "ui3FObwYkvA=",
+      "Size": 554
+    },
+    {
+      "Path": "resources/items/CookedMeat.png",
+      "Checksum": "dguCBdFhZTc=",
+      "Size": 371
+    },
+    {
+      "Path": "resources/items/CookedSeaTurtle.png",
+      "Checksum": "amfmx2VtXo4=",
+      "Size": 435
+    },
+    {
+      "Path": "resources/items/CookedTrout.png",
+      "Checksum": "m1b9xpl0gJw=",
+      "Size": 487
+    },
+    {
+      "Path": "resources/items/Crusader Axe-.png",
+      "Checksum": "iwUcOXb2QX8=",
+      "Size": 327
+    },
+    {
+      "Path": "resources/items/Crystal Armor.png",
+      "Checksum": "nRnQchFZQZ0=",
+      "Size": 374
+    },
+    {
+      "Path": "resources/items/Crystal Battleaxe.png",
+      "Checksum": "fVvAA69et5Y=",
+      "Size": 269
+    },
+    {
+      "Path": "resources/items/Crystal Dagger.png",
+      "Checksum": "i81gMORqRqo=",
+      "Size": 216
+    },
+    {
+      "Path": "resources/items/Crystal Hatchet.png",
+      "Checksum": "JesV3dxUQ9Q=",
+      "Size": 252
+    },
+    {
+      "Path": "resources/items/Crystal Helmet.png",
+      "Checksum": "1OTI/9bEmxs=",
+      "Size": 305
+    },
+    {
+      "Path": "resources/items/Crystal Mage Hood.png",
+      "Checksum": "tjuvg37fQ6g=",
+      "Size": 294
+    },
+    {
+      "Path": "resources/items/Crystal Pickaxe.png",
+      "Checksum": "aHHj+QdT/NI=",
+      "Size": 387
+    },
+    {
+      "Path": "resources/items/Crystal Shield.png",
+      "Checksum": "fD4MKWowqNQ=",
+      "Size": 329
+    },
+    {
+      "Path": "resources/items/Crystal Shortsword.png",
+      "Checksum": "L8fw9Qwt47I=",
+      "Size": 234
+    },
+    {
+      "Path": "resources/items/CrystalBar.png",
+      "Checksum": "x0D5nNRXtBs=",
+      "Size": 1203
+    },
+    {
+      "Path": "resources/items/CrystalOre.png",
+      "Checksum": "wf269Zi5e2I=",
+      "Size": 1270
+    },
+    {
+      "Path": "resources/items/dagger.png",
+      "Checksum": "Ulwm2qmoBlE=",
+      "Size": 185
+    },
+    {
+      "Path": "resources/items/ElderBow.png",
+      "Checksum": "85mC4EaQiL0=",
+      "Size": 348
+    },
+    {
+      "Path": "resources/items/ElderShield.png",
+      "Checksum": "MrFhUyJWSSc=",
+      "Size": 639
+    },
+    {
+      "Path": "resources/items/ElderStaff.png",
+      "Checksum": "RVhD3azYG20=",
+      "Size": 372
+    },
+    {
+      "Path": "resources/items/Elm Bow.png",
+      "Checksum": "ntYnuSND/RQ=",
+      "Size": 321
+    },
+    {
+      "Path": "resources/items/Elm Log.png",
+      "Checksum": "c7ybo06TG+M=",
+      "Size": 308
+    },
+    {
+      "Path": "resources/items/ElmLog.png",
+      "Checksum": "ov80zH66qCI=",
+      "Size": 456
+    },
+    {
+      "Path": "resources/items/Fishing Pole.png",
+      "Checksum": "uMt2fy62aTk=",
+      "Size": 244
+    },
+    {
+      "Path": "resources/items/Glory Token.png",
+      "Checksum": "zgsPAJ1de68=",
+      "Size": 359
+    },
+    {
+      "Path": "resources/items/GM Collosal Armor.png",
+      "Checksum": "YKm5MyE2OQc=",
+      "Size": 804
+    },
+    {
+      "Path": "resources/items/Gold Bar.png",
+      "Checksum": "d0ybJyBlAJ0=",
+      "Size": 162
+    },
+    {
+      "Path": "resources/items/Gold Coins.png",
+      "Checksum": "W8lKMokqb8Y=",
+      "Size": 531
+    },
+    {
+      "Path": "resources/items/Great Mana Potion.png",
+      "Checksum": "eMmv3DaTlvc=",
+      "Size": 576
+    },
+    {
+      "Path": "resources/items/GuardianBoots.png",
+      "Checksum": "PFShNaygUOI=",
+      "Size": 240
+    },
+    {
+      "Path": "resources/items/Hellfire Archer Helmet.png",
+      "Checksum": "HkCn0Tqvuho=",
+      "Size": 393
+    },
+    {
+      "Path": "resources/items/Hellfire Battleaxe.png",
+      "Checksum": "LTnrL2wQXZA=",
+      "Size": 276
+    },
+    {
+      "Path": "resources/items/Hellfire Mage Hood.png",
+      "Checksum": "pfmlCbLBPDo=",
+      "Size": 327
+    },
+    {
+      "Path": "resources/items/Hellfire Pickaxe.png",
+      "Checksum": "Qsi4h1DU730=",
+      "Size": 387
+    },
+    {
+      "Path": "resources/items/Hellfire Shield.png",
+      "Checksum": "oSplXVkMS5k=",
+      "Size": 345
+    },
+    {
+      "Path": "resources/items/HellFire Warrior Armor.png",
+      "Checksum": "59rjaW46dTA=",
+      "Size": 423
+    },
+    {
+      "Path": "resources/items/HellFire Warrior Helmet.png",
+      "Checksum": "TL7naH50OaI=",
+      "Size": 324
+    },
+    {
+      "Path": "resources/items/HellfireBar.png",
+      "Checksum": "Lcc0qFy/gHw=",
+      "Size": 669
+    },
+    {
+      "Path": "resources/items/HellfireOre.png",
+      "Checksum": "oIpl6ygrrDU=",
+      "Size": 1312
+    },
+    {
+      "Path": "resources/items/herring.png",
+      "Checksum": "jawxYgAZ3Dg=",
+      "Size": 624
+    },
+    {
+      "Path": "resources/items/Iron Armor.png",
+      "Checksum": "Z3Nip54o8KU=",
+      "Size": 325
+    },
+    {
+      "Path": "resources/items/Iron Battleaxe.png",
+      "Checksum": "9wemddq/d7w=",
+      "Size": 225
+    },
+    {
+      "Path": "resources/items/Iron Dagger.png",
+      "Checksum": "Ulwm2qmoBlE=",
+      "Size": 185
+    },
+    {
+      "Path": "resources/items/Iron Hatchet.png",
+      "Checksum": "g7Hjz8MiFt0=",
+      "Size": 204
+    },
+    {
+      "Path": "resources/items/Iron Helmet.png",
+      "Checksum": "C7aq42+PHoY=",
+      "Size": 243
+    },
+    {
+      "Path": "resources/items/Iron Mage Hood.png",
+      "Checksum": "/NtXncETEIY=",
+      "Size": 222
+    },
+    {
+      "Path": "resources/items/Iron Pickaxe.png",
+      "Checksum": "Kn6Gn/mYIsQ=",
+      "Size": 390
+    },
+    {
+      "Path": "resources/items/Iron Shield.png",
+      "Checksum": "2RwgxDtMlTc=",
+      "Size": 258
+    },
+    {
+      "Path": "resources/items/Iron Shortsword.png",
+      "Checksum": "Cu73DKDUJ+E=",
+      "Size": 201
+    },
+    {
+      "Path": "resources/items/Iron Sword.png",
+      "Checksum": "tq6XLkXbp70=",
+      "Size": 201
+    },
+    {
+      "Path": "resources/items/IronBar.png",
+      "Checksum": "m2tqFbC87XU=",
+      "Size": 1290
+    },
+    {
+      "Path": "resources/items/IronOre.png",
+      "Checksum": "xbGhqHpyKw4=",
+      "Size": 1257
+    },
+    {
+      "Path": "resources/items/Mage Spellbook.png",
+      "Checksum": "hUxtwDxE5sg=",
+      "Size": 297
+    },
+    {
+      "Path": "resources/items/Magic Bow.png",
+      "Checksum": "DZV3h1oOPA8=",
+      "Size": 546
+    },
+    {
+      "Path": "resources/items/Magic Log.png",
+      "Checksum": "tyLAyI4iyG4=",
+      "Size": 302
+    },
+    {
+      "Path": "resources/items/Magicians Staff.png",
+      "Checksum": "XMIOnXi/fm8=",
+      "Size": 153
+    },
+    {
+      "Path": "resources/items/MagicLog.png",
+      "Checksum": "8TCuTeSiWmU=",
+      "Size": 468
+    },
+    {
+      "Path": "resources/items/Mana Potion.png",
+      "Checksum": "E0Ny5g8JwS8=",
+      "Size": 396
+    },
+    {
+      "Path": "resources/items/marlin.png",
+      "Checksum": "iWcUeRUGnAU=",
+      "Size": 948
+    },
+    {
+      "Path": "resources/items/Master's Pickaxe.png",
+      "Checksum": "CpmZuWL++zw=",
+      "Size": 248
+    },
+    {
+      "Path": "resources/items/Meat.png",
+      "Checksum": "6l31Achlqo4=",
+      "Size": 357
+    },
+    {
+      "Path": "resources/items/Novice Fishing Pole.png",
+      "Checksum": "J9LMqdstEPw=",
+      "Size": 298
+    },
+    {
+      "Path": "resources/items/Novice Pickaxe.png",
+      "Checksum": "ZPAxUW2V+8o=",
+      "Size": 242
+    },
+    {
+      "Path": "resources/items/Onyx Armor.png.png",
+      "Checksum": "7KCx5jcOXzo=",
+      "Size": 303
+    },
+    {
+      "Path": "resources/items/Onyx Battleaxe.png",
+      "Checksum": "z60bNRbSmGc=",
+      "Size": 210
+    },
+    {
+      "Path": "resources/items/Onyx Dagger.png",
+      "Checksum": "6F37DnDIZWU=",
+      "Size": 186
+    },
+    {
+      "Path": "resources/items/Onyx Hatchet.png",
+      "Checksum": "3W18fq21cwM=",
+      "Size": 189
+    },
+    {
+      "Path": "resources/items/Onyx Helmet.png.png",
+      "Checksum": "7tcsN0cTNgc=",
+      "Size": 240
+    },
+    {
+      "Path": "resources/items/Onyx Mage Hood.png",
+      "Checksum": "y4L0kEH9vfA=",
+      "Size": 222
+    },
+    {
+      "Path": "resources/items/Onyx Pickaxe.png",
+      "Checksum": "bTmPR0fS2+A=",
+      "Size": 390
+    },
+    {
+      "Path": "resources/items/Onyx Shield.png.png",
+      "Checksum": "eDA+ic+TrKE=",
+      "Size": 279
+    },
+    {
+      "Path": "resources/items/Onyx Shortsword.png",
+      "Checksum": "ljgLioUtWxY=",
+      "Size": 201
+    },
+    {
+      "Path": "resources/items/Onyx Sword.png",
+      "Checksum": "nzckMKPbPfg=",
+      "Size": 201
+    },
+    {
+      "Path": "resources/items/OnyxBar.png",
+      "Checksum": "kiqJZ9GsMa0=",
+      "Size": 642
+    },
+    {
+      "Path": "resources/items/OnyxOre.png",
+      "Checksum": "I9wE0dNExLk=",
+      "Size": 1404
+    },
+    {
+      "Path": "resources/items/Pickaxe.png",
+      "Checksum": "WSL+LnXg5fk=",
+      "Size": 198
+    },
+    {
+      "Path": "resources/items/Royal Bow.png",
+      "Checksum": "ntYnuSND/RQ=",
+      "Size": 321
+    },
+    {
+      "Path": "resources/items/Savage Blade.png",
+      "Checksum": "3/wFKvx1EdU=",
+      "Size": 267
+    },
+    {
+      "Path": "resources/items/Sea Turtle.png",
+      "Checksum": "NukT15Mj8o0=",
+      "Size": 402
+    },
+    {
+      "Path": "resources/items/short sword.png",
+      "Checksum": "Cu73DKDUJ+E=",
+      "Size": 201
+    },
+    {
+      "Path": "resources/items/Slingshot.png",
+      "Checksum": "qiZE808y30U=",
+      "Size": 384
+    },
+    {
+      "Path": "resources/items/Sorcerer's Staff.png",
+      "Checksum": "5e66L9xXxaI=",
+      "Size": 395
+    },
+    {
+      "Path": "resources/items/Stone Hatchet.png",
+      "Checksum": "2Cj6OrcKAHk=",
+      "Size": 170
+    },
+    {
+      "Path": "resources/items/Stone.png",
+      "Checksum": "93KWZeS/hAQ=",
+      "Size": 166
+    },
+    {
+      "Path": "resources/items/Strong Mana Potion.png",
+      "Checksum": "tqXpRRPmClU=",
+      "Size": 429
+    },
+    {
+      "Path": "resources/items/sword.png",
+      "Checksum": "tq6XLkXbp70=",
+      "Size": 201
+    },
+    {
+      "Path": "resources/items/The Master Baiter.png",
+      "Checksum": "CKXpdzkUYHY=",
+      "Size": 295
+    },
+    {
+      "Path": "resources/items/TrollBag.png",
+      "Checksum": "WoP3YiSLJrQ=",
+      "Size": 669
+    },
+    {
+      "Path": "resources/items/Trout.png",
+      "Checksum": "LUkRp6c4Cl8=",
+      "Size": 483
+    },
+    {
+      "Path": "resources/items/War Hammer.png",
+      "Checksum": "ebq2jjGQrio=",
+      "Size": 288
+    },
+    {
+      "Path": "resources/items/WarlockRobe.png",
+      "Checksum": "cgakeX2+fhA=",
+      "Size": 249
+    },
+    {
+      "Path": "resources/items/Warrior Spellbook.png",
+      "Checksum": "87I74z1M51o=",
+      "Size": 303
+    },
+    {
+      "Path": "resources/items/Wood Log.png",
+      "Checksum": "EC4IyefwKZI=",
+      "Size": 256
+    },
+    {
+      "Path": "resources/items/Wooden Shield.png",
+      "Checksum": "qkNwailOzU4=",
+      "Size": 326
+    },
+    {
+      "Path": "resources/items/WoodLog.png",
+      "Checksum": "VQUQWddjsHI=",
+      "Size": 459
+    },
+    {
+      "Path": "resources/misc/attributes.png",
+      "Checksum": "VhrgUOo4aSQ=",
+      "Size": 3790
+    },
+    {
+      "Path": "resources/misc/castbackground.png",
+      "Checksum": "gGdCNSlfUvo=",
+      "Size": 153
+    },
+    {
+      "Path": "resources/misc/castbar.png",
+      "Checksum": "7SD9omR6aqo=",
+      "Size": 181
+    },
+    {
+      "Path": "resources/misc/chatbubble.png",
+      "Checksum": "jtduW/ayCsI=",
+      "Size": 308
+    },
+    {
+      "Path": "resources/misc/directions.png",
+      "Checksum": "He+rL9c4hqE=",
+      "Size": 829
+    },
+    {
+      "Path": "resources/misc/eventicon.png",
+      "Checksum": "0g8WMMjZh/E=",
+      "Size": 236
+    },
+    {
+      "Path": "resources/misc/hpbackground.png",
+      "Checksum": "C7cEVmlIaQ8=",
+      "Size": 153
+    },
+    {
+      "Path": "resources/misc/hpbar.png",
+      "Checksum": "DzVzX3YDmSg=",
+      "Size": 177
+    },
+    {
+      "Path": "resources/misc/lighticon.png",
+      "Checksum": "TxDFLKB0YKQ=",
+      "Size": 214
+    },
+    {
+      "Path": "resources/misc/shieldbar.png",
+      "Checksum": "MbBpUs03Rus=",
+      "Size": 173
+    },
+    {
+      "Path": "resources/misc/spawnicon.png",
+      "Checksum": "kwKawDQlghA=",
+      "Size": 358
+    },
+    {
+      "Path": "resources/misc/target.png",
+      "Checksum": "AXKBCBaTYcI=",
+      "Size": 291
+    },
+    {
+      "Path": "resources/misc/transtile.png",
+      "Checksum": "10lfZ15Mrts=",
+      "Size": 195
+    },
+    {
+      "Path": "resources/music/Adrift.ogg",
+      "Checksum": "zaiQgGAIxiA=",
+      "Size": 1231845
+    },
+    {
+      "Path": "resources/music/Ancient-Troops-Amassing.ogg",
+      "Checksum": "0DKinWr65Gw=",
+      "Size": 1406721
+    },
+    {
+      "Path": "resources/music/Backstory_Looping.ogg",
+      "Checksum": "NJNiWKQujHY=",
+      "Size": 1058701
+    },
+    {
+      "Path": "resources/music/Battle-of-the-Ancients.ogg",
+      "Checksum": "a4vlsiRjwho=",
+      "Size": 964762
+    },
+    {
+      "Path": "resources/music/Bedtime-Story_Looping.ogg",
+      "Checksum": "DAsCnbRuO0s=",
+      "Size": 1217336
+    },
+    {
+      "Path": "resources/music/Bog-Creatures-On-the-Move_Looping.ogg",
+      "Checksum": "MCkYEQtWdy0=",
+      "Size": 820564
+    },
+    {
+      "Path": "resources/music/City-Beneath-the-Waves_Looping.ogg",
+      "Checksum": "X51gURZm5So=",
+      "Size": 1273104
+    },
+    {
+      "Path": "resources/music/Crusaders-Approaching.ogg",
+      "Checksum": "sOkg5VDzbbk=",
+      "Size": 710451
+    },
+    {
+      "Path": "resources/music/Dark-Fantasy-Open_Looping.ogg",
+      "Checksum": "Dg6JocCZiNQ=",
+      "Size": 1263586
+    },
+    {
+      "Path": "resources/music/Dragon-Mystery_Looping.ogg",
+      "Checksum": "a3qsHNjhTVc=",
+      "Size": 991186
+    },
+    {
+      "Path": "resources/music/Dreaming-of-Reefs.ogg",
+      "Checksum": "p1tI1CcJHlo=",
+      "Size": 1486941
+    },
+    {
+      "Path": "resources/music/Dreamlands.ogg",
+      "Checksum": "VYVMGB/BCWU=",
+      "Size": 1809870
+    },
+    {
+      "Path": "resources/music/Dystopian-Game-Open_Looping.ogg",
+      "Checksum": "CTsrC8FhNmA=",
+      "Size": 815923
+    },
+    {
+      "Path": "resources/music/Enchanted-Places_Looping.ogg",
+      "Checksum": "6rs5h9Tt/Bw=",
+      "Size": 1170299
+    },
+    {
+      "Path": "resources/music/Escape_Looping.ogg",
+      "Checksum": "cZE/1vIhFkg=",
+      "Size": 2202049
+    },
+    {
+      "Path": "resources/music/Etherea.ogg",
+      "Checksum": "9RjYK5SgtXA=",
+      "Size": 1965475
+    },
+    {
+      "Path": "resources/music/Fantasy-Forest-Battle.ogg",
+      "Checksum": "7Si/SvNESPE=",
+      "Size": 1899078
+    },
+    {
+      "Path": "resources/music/Fantasy_Game_Background_Looping.ogg",
+      "Checksum": "IueAm+N5sgg=",
+      "Size": 967452
+    },
+    {
+      "Path": "resources/music/Far-Away-Places-Call_Looping.ogg",
+      "Checksum": "WTGhV1/pTbg=",
+      "Size": 2223246
+    },
+    {
+      "Path": "resources/music/Forest-Chase_Looping.ogg",
+      "Checksum": "FrmLvEAjdYk=",
+      "Size": 1023222
+    },
+    {
+      "Path": "resources/music/Forest-of-Spells_Looping.ogg",
+      "Checksum": "iUM/INq9050=",
+      "Size": 1349634
+    },
+    {
+      "Path": "resources/music/Forward-Assault.ogg",
+      "Checksum": "3gfAJaM4V6Q=",
+      "Size": 1070851
+    },
+    {
+      "Path": "resources/music/Game-Menu_Looping.ogg",
+      "Checksum": "3oOsl5Ik1Kk=",
+      "Size": 1541237
+    },
+    {
+      "Path": "resources/music/GameMenu1.ogg",
+      "Checksum": "bLZSHDhNhEo=",
+      "Size": 2494745
+    },
+    {
+      "Path": "resources/music/GameMenu2.ogg",
+      "Checksum": "N88O9YbTXG8=",
+      "Size": 2503618
+    },
+    {
+      "Path": "resources/music/Goblin-Loop.ogg",
+      "Checksum": "/r64eIZj2Es=",
+      "Size": 533663
+    },
+    {
+      "Path": "resources/music/Grumpy-Monster-Sorcerer.ogg",
+      "Checksum": "JVaFjIDnUp4=",
+      "Size": 1887762
+    },
+    {
+      "Path": "resources/music/High-Altitude-Station_Looping.ogg",
+      "Checksum": "Rp8qTcT49hs=",
+      "Size": 996484
+    },
+    {
+      "Path": "resources/music/Horror-Game-Menu_Looping.ogg",
+      "Checksum": "M/NJc/xw6cU=",
+      "Size": 885131
+    },
+    {
+      "Path": "resources/music/Kingdom-of-Darkness_Looping.ogg",
+      "Checksum": "QzeyiNATpU8=",
+      "Size": 1153219
+    },
+    {
+      "Path": "resources/music/Land-of-Hope_v001.ogg",
+      "Checksum": "YlwBNojfMLQ=",
+      "Size": 1856819
+    },
+    {
+      "Path": "resources/music/Left-Behind_Looping.ogg",
+      "Checksum": "qr2GiMkP0yA=",
+      "Size": 1509230
+    },
+    {
+      "Path": "resources/music/Life-in-a-Mystical-Village.ogg",
+      "Checksum": "j2VyeZY9Wi4=",
+      "Size": 1097422
+    },
+    {
+      "Path": "resources/music/Lost-Island_Looping.ogg",
+      "Checksum": "yQwKESAc5nw=",
+      "Size": 1395653
+    },
+    {
+      "Path": "resources/music/Lost-Jungle_Looping.ogg",
+      "Checksum": "JeVFDLkuaLE=",
+      "Size": 768497
+    },
+    {
+      "Path": "resources/music/Magical-Backstory.ogg",
+      "Checksum": "d+03OwZx/Kw=",
+      "Size": 2139059
+    },
+    {
+      "Path": "resources/music/Magical-Discovery.ogg",
+      "Checksum": "Wcm44iFzfYs=",
+      "Size": 1154936
+    },
+    {
+      "Path": "resources/music/Mech-Game-Menu_Looping.ogg",
+      "Checksum": "MaO6awRTd+M=",
+      "Size": 729245
+    },
+    {
+      "Path": "resources/music/Misty-Bog_Looping.ogg",
+      "Checksum": "4sAMcOPTj3Q=",
+      "Size": 798279
+    },
+    {
+      "Path": "resources/music/Moonlight-Flying_Looping.ogg",
+      "Checksum": "hdCN4fM3JwE=",
+      "Size": 1269407
+    },
+    {
+      "Path": "resources/music/Move-it-Out.ogg",
+      "Checksum": "G+f+/aBrmSw=",
+      "Size": 595865
+    },
+    {
+      "Path": "resources/music/Mysterious-Lands_Looping.ogg",
+      "Checksum": "kmWDY7dkGKk=",
+      "Size": 1345894
+    },
+    {
+      "Path": "resources/music/Mysterious-Trail.ogg",
+      "Checksum": "Ux3gART93ow=",
+      "Size": 1507571
+    },
+    {
+      "Path": "resources/music/Netherplace_Looping.ogg",
+      "Checksum": "ILd9lITPx6E=",
+      "Size": 1616584
+    },
+    {
+      "Path": "resources/music/Once-Around-the-Kingdom_Looping.ogg",
+      "Checksum": "je8D2zw3wpA=",
+      "Size": 1572367
+    },
+    {
+      "Path": "resources/music/Our-Mountain_v003_Looping.ogg",
+      "Checksum": "K+hOLZzq69I=",
+      "Size": 1267799
+    },
+    {
+      "Path": "resources/music/Realm-of-Fantasy_Looping.ogg",
+      "Checksum": "rkVhSkKBGt8=",
+      "Size": 1679953
+    },
+    {
+      "Path": "resources/music/Rockin-Monsters-Game-Menu_Looping.ogg",
+      "Checksum": "ISWP1YGly6c=",
+      "Size": 1138310
+    },
+    {
+      "Path": "resources/music/Romantic-Halloween-Theme.ogg",
+      "Checksum": "X7W29vLc6AE=",
+      "Size": 1564641
+    },
+    {
+      "Path": "resources/music/RPG-Battle-Climax-2.ogg",
+      "Checksum": "ARtxPx6T2Yw=",
+      "Size": 311542
+    },
+    {
+      "Path": "resources/music/RPG-Battle-Climax_v001.ogg",
+      "Checksum": "uP3l7ERrxFM=",
+      "Size": 1110083
+    },
+    {
+      "Path": "resources/music/RPG-Blues_Looping.ogg",
+      "Checksum": "4gvhYdc6TJw=",
+      "Size": 1189677
+    },
+    {
+      "Path": "resources/music/RPG-Intro_v001_Looping.ogg",
+      "Checksum": "MfuIqOfWkQ8=",
+      "Size": 774474
+    },
+    {
+      "Path": "resources/music/RPG-Map-Music_Looping.ogg",
+      "Checksum": "fKuuGeOGlBs=",
+      "Size": 1163151
+    },
+    {
+      "Path": "resources/music/RPG-Theme_Looping.ogg",
+      "Checksum": "TBBY7F6qmSc=",
+      "Size": 1327149
+    },
+    {
+      "Path": "resources/music/RPG-Theme_v001_Looping.ogg",
+      "Checksum": "rmDAYV3tFwo=",
+      "Size": 1268336
+    },
+    {
+      "Path": "resources/music/Sadlands_Looping.ogg",
+      "Checksum": "no0/vpLcgtw=",
+      "Size": 965956
+    },
+    {
+      "Path": "resources/music/Secret-Journey_Looping.ogg",
+      "Checksum": "ZGZs/XbqLbY=",
+      "Size": 1871012
+    },
+    {
+      "Path": "resources/music/Sky-Game-Menu_Looping.ogg",
+      "Checksum": "SumYLxQqxZQ=",
+      "Size": 1842252
+    },
+    {
+      "Path": "resources/music/Some-Dreamy-Place_v001_Looping.ogg",
+      "Checksum": "jDjrUSK5ztU=",
+      "Size": 1373402
+    },
+    {
+      "Path": "resources/music/Some-Faraway-Place_Looping.ogg",
+      "Checksum": "kO18+BTQyMg=",
+      "Size": 1471875
+    },
+    {
+      "Path": "resources/music/Spells-a-Brewin_v001_Looping.ogg",
+      "Checksum": "dwfM+8FmWos=",
+      "Size": 1367293
+    },
+    {
+      "Path": "resources/music/Spooky-Hollow.ogg",
+      "Checksum": "exFr7lVMg7g=",
+      "Size": 1208704
+    },
+    {
+      "Path": "resources/music/StarkHeim.ogg",
+      "Checksum": "ahh5NEOjJdM=",
+      "Size": 2419163
+    },
+    {
+      "Path": "resources/music/Stepping-Out_v001_Looping.ogg",
+      "Checksum": "eDkG9dpjayU=",
+      "Size": 1621028
+    },
+    {
+      "Path": "resources/music/Strange-Phenomenon_Looping.ogg",
+      "Checksum": "LRBbuqE4pXo=",
+      "Size": 1064561
+    },
+    {
+      "Path": "resources/music/Stroll-Through-a-Strange-Land.ogg",
+      "Checksum": "BNct61PBtn0=",
+      "Size": 1091342
+    },
+    {
+      "Path": "resources/music/The-Castle-Beyond-the-Forest_Looping.ogg",
+      "Checksum": "dN0P9CFQ5S0=",
+      "Size": 1199710
+    },
+    {
+      "Path": "resources/music/The-Forgotten-Forest.ogg",
+      "Checksum": "5RP+yBLrDbE=",
+      "Size": 1797341
+    },
+    {
+      "Path": "resources/music/The-Kings-Feast.ogg",
+      "Checksum": "kRglL4Uwy1w=",
+      "Size": 1280615
+    },
+    {
+      "Path": "resources/music/The-Princess-Haunted_Looping.ogg",
+      "Checksum": "pBvskcs3jqc=",
+      "Size": 2215978
+    },
+    {
+      "Path": "resources/music/The-Secret-Village.ogg",
+      "Checksum": "MIFR6M27WuI=",
+      "Size": 1388683
+    },
+    {
+      "Path": "resources/music/The-Seventy-Seas_Looping.ogg",
+      "Checksum": "EpmsmwsGb5Y=",
+      "Size": 1705461
+    },
+    {
+      "Path": "resources/music/The-Village_Looping.ogg",
+      "Checksum": "zTVS2nly4aE=",
+      "Size": 1111683
+    },
+    {
+      "Path": "resources/music/Their-Sacred-Place.ogg",
+      "Checksum": "qG5+0xgKShw=",
+      "Size": 1379847
+    },
+    {
+      "Path": "resources/music/Tower-Defense_Looping.ogg",
+      "Checksum": "nq35xdeD8iM=",
+      "Size": 1637981
+    },
+    {
+      "Path": "resources/music/Trouble-in-the-Kingdom_Looping.ogg",
+      "Checksum": "nluR+FWuXhs=",
+      "Size": 1786509
+    },
+    {
+      "Path": "resources/music/Winding-Down_Looping.ogg",
+      "Checksum": "c4jWT4+WLXE=",
+      "Size": 310257
+    },
+    {
+      "Path": "resources/paperdolls/Advanced Fishing Pole Paperdoll.png",
+      "Checksum": "iHj2vTkQcHs=",
+      "Size": 2146
+    },
+    {
+      "Path": "resources/paperdolls/Advanced Pickaxe Paperdoll.png",
+      "Checksum": "K7y5GbW20Dg=",
+      "Size": 1466
+    },
+    {
+      "Path": "resources/paperdolls/Beginner's Staff Paperdoll.png",
+      "Checksum": "nw25wLxbWUk=",
+      "Size": 1185
+    },
+    {
+      "Path": "resources/paperdolls/boh.png",
+      "Checksum": "pMK+tNDZykE=",
+      "Size": 1494
+    },
+    {
+      "Path": "resources/paperdolls/Bow Paperdoll.png",
+      "Checksum": "oqMRm6wFUpE=",
+      "Size": 1701
+    },
+    {
+      "Path": "resources/paperdolls/Bronze Archer Armor Paperdoll.png",
+      "Checksum": "RGa6LdLHg6c=",
+      "Size": 3303
+    },
+    {
+      "Path": "resources/paperdolls/Bronze Armor Paperdoll.png",
+      "Checksum": "ganF8J1ivK0=",
+      "Size": 3124
+    },
+    {
+      "Path": "resources/paperdolls/Bronze Battleaxe Paperdoll.png",
+      "Checksum": "p8tKsOz9HU4=",
+      "Size": 1299
+    },
+    {
+      "Path": "resources/paperdolls/Bronze Dagger Paperdoll.png",
+      "Checksum": "gJGsUeW+bUc=",
+      "Size": 1106
+    },
+    {
+      "Path": "resources/paperdolls/Bronze Hatchet Paperdoll.png",
+      "Checksum": "VS+vXWPedOI=",
+      "Size": 1441
+    },
+    {
+      "Path": "resources/paperdolls/Bronze Helmet Paperdoll.png",
+      "Checksum": "TtDzXUG2Ozw=",
+      "Size": 1112
+    },
+    {
+      "Path": "resources/paperdolls/Bronze Mage Hood Paperdoll.png",
+      "Checksum": "s2ryzQQz9GI=",
+      "Size": 1104
+    },
+    {
+      "Path": "resources/paperdolls/Bronze Shield Paperdoll.png",
+      "Checksum": "168ogT+GhT4=",
+      "Size": 1461
+    },
+    {
+      "Path": "resources/paperdolls/Bronze Shortsword Paperdoll.png",
+      "Checksum": "4zwWkp4NQSw=",
+      "Size": 1576
+    },
+    {
+      "Path": "resources/paperdolls/BronzePickaxePaperdoll.png",
+      "Checksum": "9pXck6tnRAU=",
+      "Size": 3423
+    },
+    {
+      "Path": "resources/paperdolls/Collosal Archer Armor.png",
+      "Checksum": "+dmsxtGxiEI=",
+      "Size": 3402
+    },
+    {
+      "Path": "resources/paperdolls/Collosal Archer Helmet.png",
+      "Checksum": "z8v98ZkS0M8=",
+      "Size": 1705
+    },
+    {
+      "Path": "resources/paperdolls/Collosal Armor Paperdoll.png",
+      "Checksum": "JOJXhDHtEJY=",
+      "Size": 3084
+    },
+    {
+      "Path": "resources/paperdolls/Collosal Helmet Paperdoll.png",
+      "Checksum": "muUuTBA+liU=",
+      "Size": 1425
+    },
+    {
+      "Path": "resources/paperdolls/Collosal Mage Armor.png",
+      "Checksum": "tOo6EXDsmg0=",
+      "Size": 3396
+    },
+    {
+      "Path": "resources/paperdolls/Collosal Mage Helmet.png",
+      "Checksum": "7lhVz707yio=",
+      "Size": 1747
+    },
+    {
+      "Path": "resources/paperdolls/Crusader Axe Paperdoll.png",
+      "Checksum": "wxoqSdO+4hw=",
+      "Size": 4107
+    },
+    {
+      "Path": "resources/paperdolls/Crystal Archer Armor Paperdoll.png",
+      "Checksum": "LoetJuQJv5E=",
+      "Size": 3018
+    },
+    {
+      "Path": "resources/paperdolls/Crystal Armor Paperdoll.png",
+      "Checksum": "O2LlABfFow4=",
+      "Size": 3315
+    },
+    {
+      "Path": "resources/paperdolls/Crystal Battleaxe Paperdoll.png",
+      "Checksum": "gkgs6Kzqg+8=",
+      "Size": 1478
+    },
+    {
+      "Path": "resources/paperdolls/Crystal Dagger Paperdoll.png",
+      "Checksum": "HxREfqKnUNw=",
+      "Size": 1141
+    },
+    {
+      "Path": "resources/paperdolls/Crystal Hatchet Paperdoll.png",
+      "Checksum": "/vi4x0oaO50=",
+      "Size": 1524
+    },
+    {
+      "Path": "resources/paperdolls/Crystal Helmet Paperdoll.png",
+      "Checksum": "dyVrH9XKV4w=",
+      "Size": 1525
+    },
+    {
+      "Path": "resources/paperdolls/Crystal Mage Hood Paperdoll.png",
+      "Checksum": "RWXrlQuxrH8=",
+      "Size": 1496
+    },
+    {
+      "Path": "resources/paperdolls/Crystal Pickaxe Paperdoll.png",
+      "Checksum": "TNpANpDxsa0=",
+      "Size": 3435
+    },
+    {
+      "Path": "resources/paperdolls/Crystal Shield Paperdoll.png",
+      "Checksum": "vGa9IsUM0ss=",
+      "Size": 1715
+    },
+    {
+      "Path": "resources/paperdolls/Crystal Shortsword Paperdoll.png",
+      "Checksum": "MkoupULOdrQ=",
+      "Size": 1612
+    },
+    {
+      "Path": "resources/paperdolls/Fishing Pole Paperdoll.png",
+      "Checksum": "3C7dGWfcoUk=",
+      "Size": 2013
+    },
+    {
+      "Path": "resources/paperdolls/GM Collosal Armor PD.png",
+      "Checksum": "x2faD79mD4k=",
+      "Size": 5157
+    },
+    {
+      "Path": "resources/paperdolls/guardianboots.png",
+      "Checksum": "JOUJyFv9uP4=",
+      "Size": 1356
+    },
+    {
+      "Path": "resources/paperdolls/Hellfire Archer Helmet P.png",
+      "Checksum": "BVQtqpq16Hc=",
+      "Size": 1503
+    },
+    {
+      "Path": "resources/paperdolls/Hellfire Battleaxe P.png",
+      "Checksum": "6/ARVSI5De0=",
+      "Size": 1556
+    },
+    {
+      "Path": "resources/paperdolls/Hellfire Hatchet Paperdoll.png",
+      "Checksum": "vZMNZvBwlCc=",
+      "Size": 1605
+    },
+    {
+      "Path": "resources/paperdolls/Hellfire Mage Hood P.png",
+      "Checksum": "lxHO4CRUlkE=",
+      "Size": 1380
+    },
+    {
+      "Path": "resources/paperdolls/Hellfire Pickaxe Paperdoll.png",
+      "Checksum": "t+kzTVXCMT0=",
+      "Size": 3414
+    },
+    {
+      "Path": "resources/paperdolls/Hellfire Shield P.png",
+      "Checksum": "/CjfeMqtXnU=",
+      "Size": 1814
+    },
+    {
+      "Path": "resources/paperdolls/HellFire Warrior Armor.png",
+      "Checksum": "RlLqKtyp5ls=",
+      "Size": 3927
+    },
+    {
+      "Path": "resources/paperdolls/HellFire Warrior Helmet.png",
+      "Checksum": "CH5jGTbKBjo=",
+      "Size": 1323
+    },
+    {
+      "Path": "resources/paperdolls/HellfireExecutionerPD.png",
+      "Checksum": "KFIn/G6OykM=",
+      "Size": 4035
+    },
+    {
+      "Path": "resources/paperdolls/Iron Archer Armor Paperdoll.png",
+      "Checksum": "nZTuYjmbqls=",
+      "Size": 3162
+    },
+    {
+      "Path": "resources/paperdolls/Iron Armor Paperdoll.png",
+      "Checksum": "JWjlvMipWQI=",
+      "Size": 2763
+    },
+    {
+      "Path": "resources/paperdolls/Iron Battleaxe Paperdoll.png",
+      "Checksum": "7GrD+oAlJpQ=",
+      "Size": 1299
+    },
+    {
+      "Path": "resources/paperdolls/Iron Dagger Paperdoll.png",
+      "Checksum": "4Kg58OnUbIk=",
+      "Size": 1108
+    },
+    {
+      "Path": "resources/paperdolls/Iron Hatchet Paperdoll.png",
+      "Checksum": "Cy1b7qBCi00=",
+      "Size": 1449
+    },
+    {
+      "Path": "resources/paperdolls/Iron Helmet Paperdoll.png",
+      "Checksum": "wcANiNnV2PI=",
+      "Size": 1105
+    },
+    {
+      "Path": "resources/paperdolls/Iron Mage Hood Paperdoll.png",
+      "Checksum": "4ywjIhmVzK0=",
+      "Size": 1098
+    },
+    {
+      "Path": "resources/paperdolls/Iron Pickaxe Paperdoll.png",
+      "Checksum": "WOvqb4hmFbE=",
+      "Size": 3423
+    },
+    {
+      "Path": "resources/paperdolls/Iron Shield Paperdoll.png",
+      "Checksum": "dVdCX7QvIm4=",
+      "Size": 1455
+    },
+    {
+      "Path": "resources/paperdolls/Iron Shortsword Paperdoll.png",
+      "Checksum": "UlPf5YxGyLk=",
+      "Size": 1595
+    },
+    {
+      "Path": "resources/paperdolls/Magic Bow P.png",
+      "Checksum": "BVajwSxwEc4=",
+      "Size": 4385
+    },
+    {
+      "Path": "resources/paperdolls/Magic Bow.png",
+      "Checksum": "LS14fVED2sY=",
+      "Size": 5115
+    },
+    {
+      "Path": "resources/paperdolls/Magician's Staff Paperdoll.png",
+      "Checksum": "OmY2e6I+vv0=",
+      "Size": 1182
+    },
+    {
+      "Path": "resources/paperdolls/Master's Pickaxe Paperdoll.png",
+      "Checksum": "7P2M1MKHWgI=",
+      "Size": 1541
+    },
+    {
+      "Path": "resources/paperdolls/Novice Fishing Pole Paperdoll.png",
+      "Checksum": "u06umuw9dfI=",
+      "Size": 2146
+    },
+    {
+      "Path": "resources/paperdolls/Novice Pickaxe Paperdoll.png",
+      "Checksum": "i076QgL/MK0=",
+      "Size": 1475
+    },
+    {
+      "Path": "resources/paperdolls/Onyx Archer Armor PD.png",
+      "Checksum": "nilN9PoW3Fs=",
+      "Size": 3006
+    },
+    {
+      "Path": "resources/paperdolls/Onyx Armor Paperdoll.png",
+      "Checksum": "LY6daCEYRfY=",
+      "Size": 2610
+    },
+    {
+      "Path": "resources/paperdolls/Onyx Battleaxe Paperdoll.png",
+      "Checksum": "/LpKIeatHeQ=",
+      "Size": 1248
+    },
+    {
+      "Path": "resources/paperdolls/Onyx Dagger Paperdoll.png",
+      "Checksum": "9xqRdNNsjU8=",
+      "Size": 1020
+    },
+    {
+      "Path": "resources/paperdolls/Onyx Hatchet Paperdoll.png",
+      "Checksum": "muHsGCGBA3g=",
+      "Size": 1257
+    },
+    {
+      "Path": "resources/paperdolls/Onyx Helmet Paperdoll.png",
+      "Checksum": "GaaUeLf0dFQ=",
+      "Size": 987
+    },
+    {
+      "Path": "resources/paperdolls/Onyx Mage Hood Paperdoll.png",
+      "Checksum": "ij4z1jl1KxU=",
+      "Size": 1095
+    },
+    {
+      "Path": "resources/paperdolls/Onyx Pickaxe Paperdoll.png",
+      "Checksum": "tM3b+T1pB1k=",
+      "Size": 3420
+    },
+    {
+      "Path": "resources/paperdolls/Onyx Shield Paperdoll.png",
+      "Checksum": "/Qj4ipCv7bk=",
+      "Size": 1839
+    },
+    {
+      "Path": "resources/paperdolls/Onyx Shortsword Paperdoll.png",
+      "Checksum": "MmHGBEgxiKs=",
+      "Size": 1428
+    },
+    {
+      "Path": "resources/paperdolls/Pickaxe Paperdoll.png",
+      "Checksum": "xxpnIS2PEV4=",
+      "Size": 1452
+    },
+    {
+      "Path": "resources/paperdolls/Plague Shield Paperdoll.png",
+      "Checksum": "scNR695v+cU=",
+      "Size": 5946
+    },
+    {
+      "Path": "resources/paperdolls/Plague Sword Paperdoll.png",
+      "Checksum": "hHERM2wbHM0=",
+      "Size": 3333
+    },
+    {
+      "Path": "resources/paperdolls/Royal Bow Paperdoll.png",
+      "Checksum": "Trim9R4nyoo=",
+      "Size": 2349
+    },
+    {
+      "Path": "resources/paperdolls/Savage Blade Paperdoll.png",
+      "Checksum": "IGp0QGMa4Iw=",
+      "Size": 4359
+    },
+    {
+      "Path": "resources/paperdolls/Slingshot Paperdoll.png",
+      "Checksum": "u//uolbRCEE=",
+      "Size": 1656
+    },
+    {
+      "Path": "resources/paperdolls/Sorcerer's Staff P.png",
+      "Checksum": "rnCxU6N3Z+c=",
+      "Size": 2956
+    },
+    {
+      "Path": "resources/paperdolls/staff3.png",
+      "Checksum": "r7JUVXCsa70=",
+      "Size": 3477
+    },
+    {
+      "Path": "resources/paperdolls/The Master Baiter Paperdoll.png",
+      "Checksum": "slObnYIDhHE=",
+      "Size": 2168
+    },
+    {
+      "Path": "resources/paperdolls/WarlockRobePD.png",
+      "Checksum": "K/4zqZeEIf4=",
+      "Size": 2763
+    },
+    {
+      "Path": "resources/paperdolls/Wood Shield Paperdoll.png",
+      "Checksum": "Y5OV5HiHO+o=",
+      "Size": 1767
+    },
+    {
+      "Path": "resources/paperdolls/ZRBshieldPaperdoll.png",
+      "Checksum": "CEupa67LLWw=",
+      "Size": 2730
+    },
+    {
+      "Path": "resources/paperdolls/ZRBStaffPaperdoll.png",
+      "Checksum": "r7JUVXCsa70=",
+      "Size": 3477
+    },
+    {
+      "Path": "resources/resources/BronzeNode.png",
+      "Checksum": "tIZFfcreL0o=",
+      "Size": 939
+    },
+    {
+      "Path": "resources/resources/Cactus.png",
+      "Checksum": "weuT0/aRLdo=",
+      "Size": 447
+    },
+    {
+      "Path": "resources/resources/CrystalNode.png",
+      "Checksum": "d5RYH6qhz+o=",
+      "Size": 1015
+    },
+    {
+      "Path": "resources/resources/ElmChopped.png",
+      "Checksum": "2M9pxkLwSWY=",
+      "Size": 1416
+    },
+    {
+      "Path": "resources/resources/ElmTree.png",
+      "Checksum": "bCFMF8bpgo4=",
+      "Size": 13614
+    },
+    {
+      "Path": "resources/resources/HellfireNode.png",
+      "Checksum": "qT/kcFCjljo=",
+      "Size": 862
+    },
+    {
+      "Path": "resources/resources/IronNode.png",
+      "Checksum": "sJAPYxDJhLg=",
+      "Size": 936
+    },
+    {
+      "Path": "resources/resources/MagicChopped.png",
+      "Checksum": "2M9pxkLwSWY=",
+      "Size": 1416
+    },
+    {
+      "Path": "resources/resources/MagicTree.png",
+      "Checksum": "gUgrd+wu7Xs=",
+      "Size": 13698
+    },
+    {
+      "Path": "resources/resources/OnyxNode.png",
+      "Checksum": "9QUN1ES2CYc=",
+      "Size": 842
+    },
+    {
+      "Path": "resources/resources/StoneNode.png",
+      "Checksum": "M9WCpTSlRnQ=",
+      "Size": 257
+    },
+    {
+      "Path": "resources/resources/Tree Chopped.png",
+      "Checksum": "ZFHfCDxul+M=",
+      "Size": 222
+    },
+    {
+      "Path": "resources/resources/Tree.png",
+      "Checksum": "31M+9P3rH80=",
+      "Size": 555
+    },
+    {
+      "Path": "resources/resources/Tree2 Chopped.png",
+      "Checksum": "it/7PQo2WwI=",
+      "Size": 165
+    },
+    {
+      "Path": "resources/resources/Tree2.png",
+      "Checksum": "zutsglk8rX8=",
+      "Size": 585
+    },
+    {
+      "Path": "resources/sounds/armor-light.wav",
+      "Checksum": "PCxOAPs0fH4=",
+      "Size": 88434
+    },
+    {
+      "Path": "resources/sounds/beach.wav",
+      "Checksum": "janbil8tXGQ=",
+      "Size": 29782118
+    },
+    {
+      "Path": "resources/sounds/beads.wav",
+      "Checksum": "uufxRyH0LMc=",
+      "Size": 88434
+    },
+    {
+      "Path": "resources/sounds/bearattack.wav",
+      "Checksum": "uM/riPiBZOY=",
+      "Size": 283816
+    },
+    {
+      "Path": "resources/sounds/beltHandle1.wav",
+      "Checksum": "NFEZjbdWx0I=",
+      "Size": 55118
+    },
+    {
+      "Path": "resources/sounds/beltHandle2.wav",
+      "Checksum": "JcxLCQwza7U=",
+      "Size": 93518
+    },
+    {
+      "Path": "resources/sounds/bite-small.wav",
+      "Checksum": "ck/tMdKXcpo=",
+      "Size": 73804
+    },
+    {
+      "Path": "resources/sounds/bite-small2.wav",
+      "Checksum": "JbJAIStZtZk=",
+      "Size": 101078
+    },
+    {
+      "Path": "resources/sounds/bite-small3.wav",
+      "Checksum": "rWmDlNDgbFE=",
+      "Size": 149290
+    },
+    {
+      "Path": "resources/sounds/blink.wav",
+      "Checksum": "G7elT9jRbhU=",
+      "Size": 390332
+    },
+    {
+      "Path": "resources/sounds/blooddeath.wav",
+      "Checksum": "RsyV3PZTf1U=",
+      "Size": 154992
+    },
+    {
+      "Path": "resources/sounds/bookClose.wav",
+      "Checksum": "Krg11bus0w0=",
+      "Size": 46414
+    },
+    {
+      "Path": "resources/sounds/bookFlip1.wav",
+      "Checksum": "B6vKz9iKZKo=",
+      "Size": 149326
+    },
+    {
+      "Path": "resources/sounds/bookFlip2.wav",
+      "Checksum": "RHJHU1V4VXg=",
+      "Size": 86350
+    },
+    {
+      "Path": "resources/sounds/bookFlip3.wav",
+      "Checksum": "RJG7AHSIuKc=",
+      "Size": 45390
+    },
+    {
+      "Path": "resources/sounds/bookOpen.wav",
+      "Checksum": "+lDtsAkv5yo=",
+      "Size": 32590
+    },
+    {
+      "Path": "resources/sounds/bookPlace1.wav",
+      "Checksum": "IKu7s+eG/Mg=",
+      "Size": 56654
+    },
+    {
+      "Path": "resources/sounds/bookPlace2.wav",
+      "Checksum": "f8Ov5FwYrjM=",
+      "Size": 69966
+    },
+    {
+      "Path": "resources/sounds/bookPlace3.wav",
+      "Checksum": "V3rpYJRgd9M=",
+      "Size": 52046
+    },
+    {
+      "Path": "resources/sounds/boom1.wav",
+      "Checksum": "IE43PUjVowY=",
+      "Size": 64850
+    },
+    {
+      "Path": "resources/sounds/boom2.wav",
+      "Checksum": "Ld1wAiVfUf8=",
+      "Size": 38862
+    },
+    {
+      "Path": "resources/sounds/boom3.wav",
+      "Checksum": "I8Wakr+Ds6U=",
+      "Size": 31488
+    },
+    {
+      "Path": "resources/sounds/boom4.wav",
+      "Checksum": "m051JaKiXUQ=",
+      "Size": 74826
+    },
+    {
+      "Path": "resources/sounds/boom5.wav",
+      "Checksum": "bE344V6JZd8=",
+      "Size": 151160
+    },
+    {
+      "Path": "resources/sounds/boom6.wav",
+      "Checksum": "NhWo8aohCrE=",
+      "Size": 124016
+    },
+    {
+      "Path": "resources/sounds/boom7.wav",
+      "Checksum": "WjM2qyYI2mM=",
+      "Size": 137074
+    },
+    {
+      "Path": "resources/sounds/boom8.wav",
+      "Checksum": "Wzi+OoBDJig=",
+      "Size": 141584
+    },
+    {
+      "Path": "resources/sounds/boom9.wav",
+      "Checksum": "CGgTQQaSaNA=",
+      "Size": 121800
+    },
+    {
+      "Path": "resources/sounds/bottle.wav",
+      "Checksum": "ZHYpjHktA50=",
+      "Size": 127698
+    },
+    {
+      "Path": "resources/sounds/BowDraw.wav",
+      "Checksum": "ePl7ffOl9Qo=",
+      "Size": 210670
+    },
+    {
+      "Path": "resources/sounds/BowHit.wav",
+      "Checksum": "QwI7iStBXF0=",
+      "Size": 133258
+    },
+    {
+      "Path": "resources/sounds/bowshot.wav",
+      "Checksum": "6g/jy4Z/eGU=",
+      "Size": 121444
+    },
+    {
+      "Path": "resources/sounds/bubble.wav",
+      "Checksum": "Ank5oSKJclM=",
+      "Size": 121630
+    },
+    {
+      "Path": "resources/sounds/bubble2.wav",
+      "Checksum": "aw3y8+czYhE=",
+      "Size": 116662
+    },
+    {
+      "Path": "resources/sounds/bubble3.wav",
+      "Checksum": "NbvcmMPs4Ms=",
+      "Size": 193934
+    },
+    {
+      "Path": "resources/sounds/burp.wav",
+      "Checksum": "+lWk9L08YE8=",
+      "Size": 349200
+    },
+    {
+      "Path": "resources/sounds/cerberus-grims.wav",
+      "Checksum": "AFe6daES9us=",
+      "Size": 62909336
+    },
+    {
+      "Path": "resources/sounds/cerberusattack.wav",
+      "Checksum": "AzIRBYJetio=",
+      "Size": 569544
+    },
+    {
+      "Path": "resources/sounds/chainmail1.wav",
+      "Checksum": "/OrG4FlFmQQ=",
+      "Size": 155298
+    },
+    {
+      "Path": "resources/sounds/chainmail2.wav",
+      "Checksum": "RyHK+4fMhiY=",
+      "Size": 199456
+    },
+    {
+      "Path": "resources/sounds/charge.wav",
+      "Checksum": "UGmf2InmoQ0=",
+      "Size": 268592
+    },
+    {
+      "Path": "resources/sounds/chop.wav",
+      "Checksum": "y2ZqSa42gb0=",
+      "Size": 49998
+    },
+    {
+      "Path": "resources/sounds/click1.wav",
+      "Checksum": "wIFzSiNPjuM=",
+      "Size": 18254
+    },
+    {
+      "Path": "resources/sounds/click2.wav",
+      "Checksum": "/1FZwcGhJPU=",
+      "Size": 10062
+    },
+    {
+      "Path": "resources/sounds/click3.wav",
+      "Checksum": "QluGEltCO7Q=",
+      "Size": 15694
+    },
+    {
+      "Path": "resources/sounds/click4.wav",
+      "Checksum": "7REYbB44c5w=",
+      "Size": 6734
+    },
+    {
+      "Path": "resources/sounds/click5.wav",
+      "Checksum": "n+oL7Hft66I=",
+      "Size": 6222
+    },
+    {
+      "Path": "resources/sounds/cloth-heavy.wav",
+      "Checksum": "l7FE5xojtJ0=",
+      "Size": 108792
+    },
+    {
+      "Path": "resources/sounds/cloth.wav",
+      "Checksum": "7K/zVP91x3E=",
+      "Size": 132918
+    },
+    {
+      "Path": "resources/sounds/cloth1.wav",
+      "Checksum": "MGppTC9RrT8=",
+      "Size": 129870
+    },
+    {
+      "Path": "resources/sounds/cloth2.wav",
+      "Checksum": "cVVQxFLmNLY=",
+      "Size": 83790
+    },
+    {
+      "Path": "resources/sounds/cloth3.wav",
+      "Checksum": "cE8F9j+PAdo=",
+      "Size": 95054
+    },
+    {
+      "Path": "resources/sounds/cloth4.wav",
+      "Checksum": "V1DRm3tJUUg=",
+      "Size": 74062
+    },
+    {
+      "Path": "resources/sounds/clothBelt.wav",
+      "Checksum": "nMn7OWffXAg=",
+      "Size": 141134
+    },
+    {
+      "Path": "resources/sounds/clothBelt2.wav",
+      "Checksum": "nI5r+ZL/ubs=",
+      "Size": 144718
+    },
+    {
+      "Path": "resources/sounds/coin.wav",
+      "Checksum": "FY8GPEu49V0=",
+      "Size": 174974
+    },
+    {
+      "Path": "resources/sounds/coin2.wav",
+      "Checksum": "CzRKbOxpsq8=",
+      "Size": 289122
+    },
+    {
+      "Path": "resources/sounds/coin3.wav",
+      "Checksum": "AsOzyRWqKH4=",
+      "Size": 89812
+    },
+    {
+      "Path": "resources/sounds/creak1.wav",
+      "Checksum": "0+O6TCmyWuY=",
+      "Size": 130894
+    },
+    {
+      "Path": "resources/sounds/creak2.wav",
+      "Checksum": "ogwn0gJnL1Y=",
+      "Size": 162126
+    },
+    {
+      "Path": "resources/sounds/creak3.wav",
+      "Checksum": "nvjWaabovNI=",
+      "Size": 66382
+    },
+    {
+      "Path": "resources/sounds/darkcave.wav",
+      "Checksum": "vghFqIS8YsQ=",
+      "Size": 55233432
+    },
+    {
+      "Path": "resources/sounds/deepfreeze.wav",
+      "Checksum": "DnW+oeWWQSM=",
+      "Size": 649240
+    },
+    {
+      "Path": "resources/sounds/desert.wav",
+      "Checksum": "CwpPrCtCDGg=",
+      "Size": 3554200
+    },
+    {
+      "Path": "resources/sounds/door.wav",
+      "Checksum": "Yqb/lXHq3PE=",
+      "Size": 265692
+    },
+    {
+      "Path": "resources/sounds/doorClose_1.wav",
+      "Checksum": "phJXosqOrbc=",
+      "Size": 133454
+    },
+    {
+      "Path": "resources/sounds/doorClose_2.wav",
+      "Checksum": "hHTI/Jv7txQ=",
+      "Size": 120654
+    },
+    {
+      "Path": "resources/sounds/doorClose_3.wav",
+      "Checksum": "J0DFElPVAPM=",
+      "Size": 140110
+    },
+    {
+      "Path": "resources/sounds/doorClose_4.wav",
+      "Checksum": "90YmwmNJY8E=",
+      "Size": 117070
+    },
+    {
+      "Path": "resources/sounds/doorOpen_1.wav",
+      "Checksum": "6qzZhCXua8s=",
+      "Size": 176974
+    },
+    {
+      "Path": "resources/sounds/doorOpen_2.wav",
+      "Checksum": "auE+rd8Jx18=",
+      "Size": 275278
+    },
+    {
+      "Path": "resources/sounds/drawKnife1.wav",
+      "Checksum": "h7H43ojkxjA=",
+      "Size": 80718
+    },
+    {
+      "Path": "resources/sounds/drawKnife2.wav",
+      "Checksum": "2gc3rtdOBAU=",
+      "Size": 87374
+    },
+    {
+      "Path": "resources/sounds/drawKnife3.wav",
+      "Checksum": "Ch2te/kk2Tg=",
+      "Size": 94030
+    },
+    {
+      "Path": "resources/sounds/dropLeather.wav",
+      "Checksum": "s3cSmEKRgWU=",
+      "Size": 80718
+    },
+    {
+      "Path": "resources/sounds/executesword.wav",
+      "Checksum": "uMP4aR+4wgg=",
+      "Size": 192078
+    },
+    {
+      "Path": "resources/sounds/explosion.wav",
+      "Checksum": "Sfw9pLomKzE=",
+      "Size": 51558
+    },
+    {
+      "Path": "resources/sounds/fireball.wav",
+      "Checksum": "EzzjxHiwqQY=",
+      "Size": 304940
+    },
+    {
+      "Path": "resources/sounds/fishcatch.wav",
+      "Checksum": "CLHFF2bTC84=",
+      "Size": 322042
+    },
+    {
+      "Path": "resources/sounds/fishreel.wav",
+      "Checksum": "SJfgjgmjmmQ=",
+      "Size": 3732042
+    },
+    {
+      "Path": "resources/sounds/footstep00.wav",
+      "Checksum": "9Yo3Iv3d0vM=",
+      "Size": 49486
+    },
+    {
+      "Path": "resources/sounds/footstep01.wav",
+      "Checksum": "Q/eeHUWxO4A=",
+      "Size": 54606
+    },
+    {
+      "Path": "resources/sounds/footstep02.wav",
+      "Checksum": "32+O0G6u+hM=",
+      "Size": 48974
+    },
+    {
+      "Path": "resources/sounds/footstep03.wav",
+      "Checksum": "xn3chJnMjMY=",
+      "Size": 55630
+    },
+    {
+      "Path": "resources/sounds/footstep04.wav",
+      "Checksum": "xYHA11AFbCQ=",
+      "Size": 64334
+    },
+    {
+      "Path": "resources/sounds/footstep05.wav",
+      "Checksum": "VK1yCQ7uK4Y=",
+      "Size": 53070
+    },
+    {
+      "Path": "resources/sounds/footstep06.wav",
+      "Checksum": "U4JZ7X2On9I=",
+      "Size": 49998
+    },
+    {
+      "Path": "resources/sounds/footstep07.wav",
+      "Checksum": "kP6dedg7KAE=",
+      "Size": 52046
+    },
+    {
+      "Path": "resources/sounds/footstep08.wav",
+      "Checksum": "lmz13Qf0teI=",
+      "Size": 51534
+    },
+    {
+      "Path": "resources/sounds/footstep09.wav",
+      "Checksum": "ZuiHnGQw08k=",
+      "Size": 41806
+    },
+    {
+      "Path": "resources/sounds/giant1.wav",
+      "Checksum": "yrEoLArj6kk=",
+      "Size": 186990
+    },
+    {
+      "Path": "resources/sounds/giant2.wav",
+      "Checksum": "BrbSihT9oUg=",
+      "Size": 267794
+    },
+    {
+      "Path": "resources/sounds/giant3.wav",
+      "Checksum": "5Tthpkb8RLI=",
+      "Size": 180982
+    },
+    {
+      "Path": "resources/sounds/giant4.wav",
+      "Checksum": "ZMbSkw+rxxQ=",
+      "Size": 156950
+    },
+    {
+      "Path": "resources/sounds/giant5.wav",
+      "Checksum": "cB4zMtnsDrc=",
+      "Size": 205314
+    },
+    {
+      "Path": "resources/sounds/handleCoins.wav",
+      "Checksum": "rMJgxck2rXk=",
+      "Size": 164174
+    },
+    {
+      "Path": "resources/sounds/handleCoins2.wav",
+      "Checksum": "Cn6rLcs2SY0=",
+      "Size": 67406
+    },
+    {
+      "Path": "resources/sounds/handleSmallLeather.wav",
+      "Checksum": "QrwI3ifKpD4=",
+      "Size": 67918
+    },
+    {
+      "Path": "resources/sounds/handleSmallLeather2.wav",
+      "Checksum": "4hzaW08S63Q=",
+      "Size": 59726
+    },
+    {
+      "Path": "resources/sounds/interface1.wav",
+      "Checksum": "5icGMwZWFso=",
+      "Size": 50150
+    },
+    {
+      "Path": "resources/sounds/interface2.wav",
+      "Checksum": "6mVv+DG6Uzc=",
+      "Size": 119004
+    },
+    {
+      "Path": "resources/sounds/interface3.wav",
+      "Checksum": "5hd3tS/CVIY=",
+      "Size": 119010
+    },
+    {
+      "Path": "resources/sounds/interface4.wav",
+      "Checksum": "oN8IJL/py4U=",
+      "Size": 72414
+    },
+    {
+      "Path": "resources/sounds/interface5.wav",
+      "Checksum": "WvAyJcDstCc=",
+      "Size": 72326
+    },
+    {
+      "Path": "resources/sounds/interface6.wav",
+      "Checksum": "vzEc0i7AeyA=",
+      "Size": 88434
+    },
+    {
+      "Path": "resources/sounds/knifeSlice.wav",
+      "Checksum": "smeJaAEVAVk=",
+      "Size": 117070
+    },
+    {
+      "Path": "resources/sounds/knifeSlice2.wav",
+      "Checksum": "rfbdWYZtvV8=",
+      "Size": 111950
+    },
+    {
+      "Path": "resources/sounds/levelup.wav",
+      "Checksum": "dJyurs14KTo=",
+      "Size": 546670
+    },
+    {
+      "Path": "resources/sounds/light healing.wav",
+      "Checksum": "gTj8VC63GRk=",
+      "Size": 158180
+    },
+    {
+      "Path": "resources/sounds/lion-attack.wav",
+      "Checksum": "GUefrVYvSSE=",
+      "Size": 229254
+    },
+    {
+      "Path": "resources/sounds/magecast.wav",
+      "Checksum": "pYB8qlA+Gfc=",
+      "Size": 777790
+    },
+    {
+      "Path": "resources/sounds/magic1.wav",
+      "Checksum": "PjPZ2xO2cBs=",
+      "Size": 232576
+    },
+    {
+      "Path": "resources/sounds/mantisattack.wav",
+      "Checksum": "v2dahtzvwWo=",
+      "Size": 259892
+    },
+    {
+      "Path": "resources/sounds/metal-ringing.wav",
+      "Checksum": "Xp0Js7RR3EQ=",
+      "Size": 149740
+    },
+    {
+      "Path": "resources/sounds/metal-small1.wav",
+      "Checksum": "P1OQqZCHeFM=",
+      "Size": 140536
+    },
+    {
+      "Path": "resources/sounds/metal-small2.wav",
+      "Checksum": "Q0EEW5SG3Ww=",
+      "Size": 96422
+    },
+    {
+      "Path": "resources/sounds/metal-small3.wav",
+      "Checksum": "A92OqzN3vDA=",
+      "Size": 132918
+    },
+    {
+      "Path": "resources/sounds/metalClick.wav",
+      "Checksum": "dS6G9+DjXuM=",
+      "Size": 87886
+    },
+    {
+      "Path": "resources/sounds/metalLatch.wav",
+      "Checksum": "1+RfGb1XQQY=",
+      "Size": 53070
+    },
+    {
+      "Path": "resources/sounds/metalPot1.wav",
+      "Checksum": "kRSINsMoov0=",
+      "Size": 281934
+    },
+    {
+      "Path": "resources/sounds/metalPot2.wav",
+      "Checksum": "fMBQo1mkZ6Y=",
+      "Size": 183118
+    },
+    {
+      "Path": "resources/sounds/metalPot3.wav",
+      "Checksum": "kvRff1Em8MQ=",
+      "Size": 174414
+    },
+    {
+      "Path": "resources/sounds/mnstr1.wav",
+      "Checksum": "PG0iNzF0juE=",
+      "Size": 126912
+    },
+    {
+      "Path": "resources/sounds/mnstr10.wav",
+      "Checksum": "4BgLQAKgid8=",
+      "Size": 157702
+    },
+    {
+      "Path": "resources/sounds/mnstr11.wav",
+      "Checksum": "ZWWGdD7gsXo=",
+      "Size": 217028
+    },
+    {
+      "Path": "resources/sounds/mnstr12.wav",
+      "Checksum": "wqNgpj4wyxs=",
+      "Size": 126912
+    },
+    {
+      "Path": "resources/sounds/mnstr13.wav",
+      "Checksum": "2BPclST+yio=",
+      "Size": 156800
+    },
+    {
+      "Path": "resources/sounds/mnstr14.wav",
+      "Checksum": "kgZf6NEKFkE=",
+      "Size": 305042
+    },
+    {
+      "Path": "resources/sounds/mnstr15.wav",
+      "Checksum": "d9QDb4b/aB4=",
+      "Size": 108888
+    },
+    {
+      "Path": "resources/sounds/mnstr2.wav",
+      "Checksum": "JyZULyWLGBI=",
+      "Size": 144934
+    },
+    {
+      "Path": "resources/sounds/mnstr3.wav",
+      "Checksum": "IAp3Kanw2Go=",
+      "Size": 156950
+    },
+    {
+      "Path": "resources/sounds/mnstr4.wav",
+      "Checksum": "otOPDcDQMfA=",
+      "Size": 203510
+    },
+    {
+      "Path": "resources/sounds/mnstr5.wav",
+      "Checksum": "UwlHBGtWbEY=",
+      "Size": 266292
+    },
+    {
+      "Path": "resources/sounds/mnstr6.wav",
+      "Checksum": "xjw0SBwCQbM=",
+      "Size": 205012
+    },
+    {
+      "Path": "resources/sounds/mnstr7.wav",
+      "Checksum": "fvi1C1VosC4=",
+      "Size": 188040
+    },
+    {
+      "Path": "resources/sounds/mnstr8.wav",
+      "Checksum": "hTpTtfMBHsI=",
+      "Size": 168966
+    },
+    {
+      "Path": "resources/sounds/mnstr9.wav",
+      "Checksum": "D9aUVABChII=",
+      "Size": 217780
+    },
+    {
+      "Path": "resources/sounds/mouseclick1.wav",
+      "Checksum": "S8nzzWyMR0E=",
+      "Size": 13646
+    },
+    {
+      "Path": "resources/sounds/mouserelease1.wav",
+      "Checksum": "AVKENYuo23Q=",
+      "Size": 15182
+    },
+    {
+      "Path": "resources/sounds/octave-beep-tapped.wav",
+      "Checksum": "lopPbZCh/6E=",
+      "Size": 3050
+    },
+    {
+      "Path": "resources/sounds/octave-tap-professional.wav",
+      "Checksum": "ts0df+e//VY=",
+      "Size": 4096
+    },
+    {
+      "Path": "resources/sounds/octave-tap-resonant.wav",
+      "Checksum": "6gaVTOaP4oE=",
+      "Size": 1784
+    },
+    {
+      "Path": "resources/sounds/octave-tap-warm.wav",
+      "Checksum": "cnC29NWD91k=",
+      "Size": 2010
+    },
+    {
+      "Path": "resources/sounds/ogre1.wav",
+      "Checksum": "hyQbSnF4kVQ=",
+      "Size": 117148
+    },
+    {
+      "Path": "resources/sounds/ogre2.wav",
+      "Checksum": "TwNevXIvgpU=",
+      "Size": 170468
+    },
+    {
+      "Path": "resources/sounds/ogre3.wav",
+      "Checksum": "UYrGh/UsrTw=",
+      "Size": 167614
+    },
+    {
+      "Path": "resources/sounds/ogre4.wav",
+      "Checksum": "KbTt1zbMvxI=",
+      "Size": 167464
+    },
+    {
+      "Path": "resources/sounds/ogre5.wav",
+      "Checksum": "68F+eFwK1og=",
+      "Size": 99426
+    },
+    {
+      "Path": "resources/sounds/orcattack.wav",
+      "Checksum": "EziGo6XNl2U=",
+      "Size": 164752
+    },
+    {
+      "Path": "resources/sounds/orcfort.wav",
+      "Checksum": "Kix0Vyb90bE=",
+      "Size": 43562120
+    },
+    {
+      "Path": "resources/sounds/rampage.wav",
+      "Checksum": "IGkrXS2udek=",
+      "Size": 350540
+    },
+    {
+      "Path": "resources/sounds/random1.wav",
+      "Checksum": "1x3ioNpwZ+E=",
+      "Size": 174594
+    },
+    {
+      "Path": "resources/sounds/random2.wav",
+      "Checksum": "LpCmCsAsJ78=",
+      "Size": 120904
+    },
+    {
+      "Path": "resources/sounds/random3.wav",
+      "Checksum": "F1tIbkTSDsg=",
+      "Size": 114896
+    },
+    {
+      "Path": "resources/sounds/random4.wav",
+      "Checksum": "WC6WoDgyxmM=",
+      "Size": 199004
+    },
+    {
+      "Path": "resources/sounds/random5.wav",
+      "Checksum": "rLW4Oh+uJ3I=",
+      "Size": 103000
+    },
+    {
+      "Path": "resources/sounds/random6.wav",
+      "Checksum": "YUMPFUf50EQ=",
+      "Size": 133220
+    },
+    {
+      "Path": "resources/sounds/rollover1.wav",
+      "Checksum": "vrW22PFcurQ=",
+      "Size": 41806
+    },
+    {
+      "Path": "resources/sounds/rollover2.wav",
+      "Checksum": "9P5kQ5/EpiI=",
+      "Size": 11086
+    },
+    {
+      "Path": "resources/sounds/rollover3.wav",
+      "Checksum": "4GnUzXBTOCw=",
+      "Size": 15182
+    },
+    {
+      "Path": "resources/sounds/rollover4.wav",
+      "Checksum": "EnTuBpG3/JI=",
+      "Size": 21838
+    },
+    {
+      "Path": "resources/sounds/rollover5.wav",
+      "Checksum": "zwb9VWwUowU=",
+      "Size": 22862
+    },
+    {
+      "Path": "resources/sounds/rollover6.wav",
+      "Checksum": "y83A4XnVDrg=",
+      "Size": 31054
+    },
+    {
+      "Path": "resources/sounds/shade1.wav",
+      "Checksum": "8iaOvSB/PPQ=",
+      "Size": 153646
+    },
+    {
+      "Path": "resources/sounds/shade10.wav",
+      "Checksum": "WB8HhKKmkbA=",
+      "Size": 292426
+    },
+    {
+      "Path": "resources/sounds/shade11.wav",
+      "Checksum": "C7wFWnQsJ+k=",
+      "Size": 325168
+    },
+    {
+      "Path": "resources/sounds/shade12.wav",
+      "Checksum": "OJeHSHkk+Kc=",
+      "Size": 379240
+    },
+    {
+      "Path": "resources/sounds/shade13.wav",
+      "Checksum": "KGFSMJ1HZQE=",
+      "Size": 331176
+    },
+    {
+      "Path": "resources/sounds/shade14.wav",
+      "Checksum": "3/oj1/w1r+8=",
+      "Size": 162958
+    },
+    {
+      "Path": "resources/sounds/shade15.wav",
+      "Checksum": "a44Cg161EBA=",
+      "Size": 186990
+    },
+    {
+      "Path": "resources/sounds/shade2.wav",
+      "Checksum": "i+P0quex+qE=",
+      "Size": 159654
+    },
+    {
+      "Path": "resources/sounds/shade3.wav",
+      "Checksum": "VR9FkNC5hoI=",
+      "Size": 172120
+    },
+    {
+      "Path": "resources/sounds/shade4.wav",
+      "Checksum": "aTIb33xo3GM=",
+      "Size": 193448
+    },
+    {
+      "Path": "resources/sounds/shade5.wav",
+      "Checksum": "9R4npbAtnx0=",
+      "Size": 192996
+    },
+    {
+      "Path": "resources/sounds/shade6.wav",
+      "Checksum": "eofYzJgQR9M=",
+      "Size": 316908
+    },
+    {
+      "Path": "resources/sounds/shade7.wav",
+      "Checksum": "CttkBlAxi8Q=",
+      "Size": 358062
+    },
+    {
+      "Path": "resources/sounds/shade8.wav",
+      "Checksum": "m7mWKnhmKTo=",
+      "Size": 472510
+    },
+    {
+      "Path": "resources/sounds/shade9.wav",
+      "Checksum": "6ZtOKCXaJ4E=",
+      "Size": 451332
+    },
+    {
+      "Path": "resources/sounds/singingbirds.wav",
+      "Checksum": "X6VcybVQOIw=",
+      "Size": 33409938
+    },
+    {
+      "Path": "resources/sounds/skullbash.wav",
+      "Checksum": "yqCVrLdS4m4=",
+      "Size": 111676
+    },
+    {
+      "Path": "resources/sounds/slime1.wav",
+      "Checksum": "ykBtW/hGVCg=",
+      "Size": 49566
+    },
+    {
+      "Path": "resources/sounds/slime10.wav",
+      "Checksum": "BMLk2tIemeY=",
+      "Size": 61942
+    },
+    {
+      "Path": "resources/sounds/slime2.wav",
+      "Checksum": "Xb+Y9hY8Ceo=",
+      "Size": 55846
+    },
+    {
+      "Path": "resources/sounds/slime3.wav",
+      "Checksum": "TYFbRTonOmQ=",
+      "Size": 44524
+    },
+    {
+      "Path": "resources/sounds/slime4.wav",
+      "Checksum": "4J3wXkAO6F0=",
+      "Size": 49566
+    },
+    {
+      "Path": "resources/sounds/slime5.wav",
+      "Checksum": "2w1uErXZuiM=",
+      "Size": 49566
+    },
+    {
+      "Path": "resources/sounds/slime6.wav",
+      "Checksum": "QUyMXsBfQc8=",
+      "Size": 74318
+    },
+    {
+      "Path": "resources/sounds/slime7.wav",
+      "Checksum": "xdalGmhUM/w=",
+      "Size": 61942
+    },
+    {
+      "Path": "resources/sounds/slime8.wav",
+      "Checksum": "LHsetCqcC0Y=",
+      "Size": 99070
+    },
+    {
+      "Path": "resources/sounds/slime9.wav",
+      "Checksum": "arX3DgLDOcQ=",
+      "Size": 86694
+    },
+    {
+      "Path": "resources/sounds/snakeattack.wav",
+      "Checksum": "mfH7AwWwLuc=",
+      "Size": 104160
+    },
+    {
+      "Path": "resources/sounds/snare.wav",
+      "Checksum": "H67NomjMpac=",
+      "Size": 315752
+    },
+    {
+      "Path": "resources/sounds/snarealert.wav",
+      "Checksum": "iGmauuu+L2U=",
+      "Size": 210638
+    },
+    {
+      "Path": "resources/sounds/spell.wav",
+      "Checksum": "/FYk+9EPXRM=",
+      "Size": 861816
+    },
+    {
+      "Path": "resources/sounds/stunned.wav",
+      "Checksum": "M/NyT24bkr0=",
+      "Size": 534536
+    },
+    {
+      "Path": "resources/sounds/swing.wav",
+      "Checksum": "CP7xBewox3k=",
+      "Size": 61462
+    },
+    {
+      "Path": "resources/sounds/swing2.wav",
+      "Checksum": "03KN57vB25c=",
+      "Size": 39384
+    },
+    {
+      "Path": "resources/sounds/swing3.wav",
+      "Checksum": "vKaSx7rNZ8M=",
+      "Size": 37316
+    },
+    {
+      "Path": "resources/sounds/switch1.wav",
+      "Checksum": "3Ly0Jx2O6/Y=",
+      "Size": 57166
+    },
+    {
+      "Path": "resources/sounds/switch10.wav",
+      "Checksum": "4DnRTq2NYBE=",
+      "Size": 68430
+    },
+    {
+      "Path": "resources/sounds/switch11.wav",
+      "Checksum": "6YfjzGeXcQ8=",
+      "Size": 55118
+    },
+    {
+      "Path": "resources/sounds/switch12.wav",
+      "Checksum": "BwRN6LI/P0A=",
+      "Size": 12110
+    },
+    {
+      "Path": "resources/sounds/switch13.wav",
+      "Checksum": "z4b5h2jbPGE=",
+      "Size": 8014
+    },
+    {
+      "Path": "resources/sounds/switch14.wav",
+      "Checksum": "laqibBn4Jh8=",
+      "Size": 6222
+    },
+    {
+      "Path": "resources/sounds/switch15.wav",
+      "Checksum": "uGoD8GZVghs=",
+      "Size": 46926
+    },
+    {
+      "Path": "resources/sounds/switch16.wav",
+      "Checksum": "xxQagZr7COI=",
+      "Size": 66382
+    },
+    {
+      "Path": "resources/sounds/switch17.wav",
+      "Checksum": "AR9tXkIm7Ck=",
+      "Size": 62286
+    },
+    {
+      "Path": "resources/sounds/switch18.wav",
+      "Checksum": "3LQo9d6bJn4=",
+      "Size": 77134
+    },
+    {
+      "Path": "resources/sounds/switch19.wav",
+      "Checksum": "OUHm7cDgjS0=",
+      "Size": 69454
+    },
+    {
+      "Path": "resources/sounds/switch2.wav",
+      "Checksum": "FniwAwrNS3o=",
+      "Size": 56142
+    },
+    {
+      "Path": "resources/sounds/switch20.wav",
+      "Checksum": "V+Vc8rGZPUo=",
+      "Size": 64334
+    },
+    {
+      "Path": "resources/sounds/switch21.wav",
+      "Checksum": "Xr/VIUWiZTk=",
+      "Size": 74062
+    },
+    {
+      "Path": "resources/sounds/switch22.wav",
+      "Checksum": "9y5gBr55c8s=",
+      "Size": 65358
+    },
+    {
+      "Path": "resources/sounds/switch23.wav",
+      "Checksum": "IiMX9rnSEbM=",
+      "Size": 70478
+    },
+    {
+      "Path": "resources/sounds/switch24.wav",
+      "Checksum": "fkRgPbo0VJY=",
+      "Size": 49998
+    },
+    {
+      "Path": "resources/sounds/switch25.wav",
+      "Checksum": "0OJ3MrSD3+U=",
+      "Size": 67918
+    },
+    {
+      "Path": "resources/sounds/switch26.wav",
+      "Checksum": "XwvEt0WqTcc=",
+      "Size": 41806
+    },
+    {
+      "Path": "resources/sounds/switch27.wav",
+      "Checksum": "ynC8FyJQi6M=",
+      "Size": 52046
+    },
+    {
+      "Path": "resources/sounds/switch28.wav",
+      "Checksum": "SzqfCi+l1l8=",
+      "Size": 38222
+    },
+    {
+      "Path": "resources/sounds/switch29.wav",
+      "Checksum": "A8NludEEWAA=",
+      "Size": 55630
+    },
+    {
+      "Path": "resources/sounds/switch3.wav",
+      "Checksum": "mgO2IccRfRU=",
+      "Size": 64846
+    },
+    {
+      "Path": "resources/sounds/switch30.wav",
+      "Checksum": "vfTv3ChCwcc=",
+      "Size": 65870
+    },
+    {
+      "Path": "resources/sounds/switch31.wav",
+      "Checksum": "/8WR2YZ7u5M=",
+      "Size": 78670
+    },
+    {
+      "Path": "resources/sounds/switch32.wav",
+      "Checksum": "sCAEhyGn0SM=",
+      "Size": 79182
+    },
+    {
+      "Path": "resources/sounds/switch33.wav",
+      "Checksum": "UXtC9LfG6x8=",
+      "Size": 90446
+    },
+    {
+      "Path": "resources/sounds/switch34.wav",
+      "Checksum": "Uy2O2QQussE=",
+      "Size": 85326
+    },
+    {
+      "Path": "resources/sounds/switch35.wav",
+      "Checksum": "XjiF2pGRQN8=",
+      "Size": 60750
+    },
+    {
+      "Path": "resources/sounds/switch36.wav",
+      "Checksum": "sYLsgJKWWVE=",
+      "Size": 58190
+    },
+    {
+      "Path": "resources/sounds/switch37.wav",
+      "Checksum": "Zru8uHJySYk=",
+      "Size": 55630
+    },
+    {
+      "Path": "resources/sounds/switch38.wav",
+      "Checksum": "qE2D/VqILto=",
+      "Size": 75086
+    },
+    {
+      "Path": "resources/sounds/switch4.wav",
+      "Checksum": "ufGofCU7wWs=",
+      "Size": 76110
+    },
+    {
+      "Path": "resources/sounds/switch5.wav",
+      "Checksum": "7OODUC9eRiU=",
+      "Size": 55630
+    },
+    {
+      "Path": "resources/sounds/switch6.wav",
+      "Checksum": "AbdaHE+Vq0s=",
+      "Size": 64334
+    },
+    {
+      "Path": "resources/sounds/switch7.wav",
+      "Checksum": "xdVGKHE3gmI=",
+      "Size": 37710
+    },
+    {
+      "Path": "resources/sounds/switch8.wav",
+      "Checksum": "zvR9HDwdFds=",
+      "Size": 60238
+    },
+    {
+      "Path": "resources/sounds/switch9.wav",
+      "Checksum": "UZOn4x+cf28=",
+      "Size": 46414
+    },
+    {
+      "Path": "resources/sounds/sword-unsheathe.wav",
+      "Checksum": "hI+yjfLJhRk=",
+      "Size": 156950
+    },
+    {
+      "Path": "resources/sounds/sword-unsheathe2.wav",
+      "Checksum": "aHKFXkyLM8w=",
+      "Size": 107086
+    },
+    {
+      "Path": "resources/sounds/sword-unsheathe3.wav",
+      "Checksum": "H4RrRSB4M5I=",
+      "Size": 148990
+    },
+    {
+      "Path": "resources/sounds/sword-unsheathe4.wav",
+      "Checksum": "PIosEv7sHDQ=",
+      "Size": 138926
+    },
+    {
+      "Path": "resources/sounds/sword-unsheathe5.wav",
+      "Checksum": "TNY3F7Dz+74=",
+      "Size": 123006
+    },
+    {
+      "Path": "resources/sounds/trollattack.wav",
+      "Checksum": "5Bf/Yuv19RM=",
+      "Size": 173476
+    },
+    {
+      "Path": "resources/sounds/wand.wav",
+      "Checksum": "F3PRzNroHSc=",
+      "Size": 25622
+    },
+    {
+      "Path": "resources/sounds/werewolfattack.wav",
+      "Checksum": "v2dahtzvwWo=",
+      "Size": 259892
+    },
+    {
+      "Path": "resources/sounds/werewolves.wav",
+      "Checksum": "s5FBovHmUTU=",
+      "Size": 92629912
+    },
+    {
+      "Path": "resources/sounds/wolf-attack.wav",
+      "Checksum": "txzOQpS8NVU=",
+      "Size": 270716
+    },
+    {
+      "Path": "resources/sounds/wolfdeath.wav",
+      "Checksum": "30mo/FZlu9M=",
+      "Size": 96428
+    },
+    {
+      "Path": "resources/sounds/wolfman.wav",
+      "Checksum": "0qiP7cgK3F0=",
+      "Size": 120152
+    },
+    {
+      "Path": "resources/sounds/wood-small.wav",
+      "Checksum": "yk/ZLH8P6S0=",
+      "Size": 83546
+    },
+    {
+      "Path": "resources/spells/aim shot.png",
+      "Checksum": "H/OC+B9rnHM=",
+      "Size": 585
+    },
+    {
+      "Path": "resources/spells/battlecry.png",
+      "Checksum": "hVzENIOKemw=",
+      "Size": 684
+    },
+    {
+      "Path": "resources/spells/blink.png",
+      "Checksum": "oePcUDUSqzE=",
+      "Size": 552
+    },
+    {
+      "Path": "resources/spells/brute strength.png",
+      "Checksum": "o+dnJs8dVUQ=",
+      "Size": 411
+    },
+    {
+      "Path": "resources/spells/dash.png",
+      "Checksum": "WSwcFp+VvZ0=",
+      "Size": 528
+    },
+    {
+      "Path": "resources/spells/deadeye.png",
+      "Checksum": "eQz6da34LUM=",
+      "Size": 726
+    },
+    {
+      "Path": "resources/spells/deepfreeze.png",
+      "Checksum": "QpwUtwgCInA=",
+      "Size": 576
+    },
+    {
+      "Path": "resources/spells/explosion.png",
+      "Checksum": "LMUR8vKK/iw=",
+      "Size": 654
+    },
+    {
+      "Path": "resources/spells/fireball.png",
+      "Checksum": "8BIisImwnaQ=",
+      "Size": 570
+    },
+    {
+      "Path": "resources/spells/firewave.png",
+      "Checksum": "05TaOY4zXcg=",
+      "Size": 801
+    },
+    {
+      "Path": "resources/spells/haste.png",
+      "Checksum": "7uCrrtufjIE=",
+      "Size": 483
+    },
+    {
+      "Path": "resources/spells/heal friend.png",
+      "Checksum": "+U2zMUAOw94=",
+      "Size": 471
+    },
+    {
+      "Path": "resources/spells/knockback.png",
+      "Checksum": "nBe0ZU9u1bs=",
+      "Size": 336
+    },
+    {
+      "Path": "resources/spells/light healing.png",
+      "Checksum": "f54Ze2E8hn0=",
+      "Size": 264
+    },
+    {
+      "Path": "resources/spells/mage buff.png",
+      "Checksum": "ZG8TCa75UNg=",
+      "Size": 501
+    },
+    {
+      "Path": "resources/spells/quickshot.png",
+      "Checksum": "ZC2XHi4qaHQ=",
+      "Size": 582
+    },
+    {
+      "Path": "resources/spells/quickstrike.png",
+      "Checksum": "SV6wm/kgOoU=",
+      "Size": 435
+    },
+    {
+      "Path": "resources/spells/rampage.png",
+      "Checksum": "UTHx9M6lURU=",
+      "Size": 729
+    },
+    {
+      "Path": "resources/spells/scorch.png",
+      "Checksum": "Ol4D9AdBEcY=",
+      "Size": 594
+    },
+    {
+      "Path": "resources/spells/skullbash.png",
+      "Checksum": "TGt08Q7V50U=",
+      "Size": 591
+    },
+    {
+      "Path": "resources/spells/snare.png",
+      "Checksum": "OoxP7E989tA=",
+      "Size": 618
+    },
+    {
+      "Path": "resources/spells/tri shot.png",
+      "Checksum": "GxXiDzy08IE=",
+      "Size": 609
+    },
+    {
+      "Path": "resources/spells/ultimate explosion.png",
+      "Checksum": "npd/m+R7Fgg=",
+      "Size": 771
+    },
+    {
+      "Path": "resources/tilesets/1.png",
+      "Checksum": "09Xy+x4Tiww=",
+      "Size": 16410
+    },
+    {
+      "Path": "resources/tilesets/2.png",
+      "Checksum": "Ylgyg6E0YWA=",
+      "Size": 7569
+    },
+    {
+      "Path": "resources/tilesets/3.png",
+      "Checksum": "sHD+mEsqVyc=",
+      "Size": 3381
+    },
+    {
+      "Path": "resources/tilesets/4.png",
+      "Checksum": "FaHaHbI1Bjo=",
+      "Size": 1256
+    },
+    {
+      "Path": "resources/tilesets/A1_AnimatedGround.png",
+      "Checksum": "XlyQ6AHFQvw=",
+      "Size": 22770
+    },
+    {
+      "Path": "resources/tilesets/A2_Ground.png",
+      "Checksum": "ETsBaYCAS1g=",
+      "Size": 30536
+    },
+    {
+      "Path": "resources/tilesets/A4_Walls.png",
+      "Checksum": "hycVs00UFxk=",
+      "Size": 33933
+    },
+    {
+      "Path": "resources/tilesets/A4_Walls_2.png",
+      "Checksum": "8w+5TizfZPI=",
+      "Size": 20670
+    },
+    {
+      "Path": "resources/tilesets/A5_Tiles.png",
+      "Checksum": "o+J/cGR0I+o=",
+      "Size": 9916
+    },
+    {
+      "Path": "resources/tilesets/assets-all.png",
+      "Checksum": "AukJRMJC1fs=",
+      "Size": 27485
+    },
+    {
+      "Path": "resources/tilesets/assets-spritesheet-standard.png",
+      "Checksum": "Fw8zJT+AXfg=",
+      "Size": 97511
+    },
+    {
+      "Path": "resources/tilesets/assets.png",
+      "Checksum": "8IdYV9RRTls=",
+      "Size": 16600
+    },
+    {
+      "Path": "resources/tilesets/Autotiles_Ground.png",
+      "Checksum": "rAd5Nzqoth4=",
+      "Size": 51007
+    },
+    {
+      "Path": "resources/tilesets/Autotiles_Houses.png",
+      "Checksum": "MXKtG6EjY3g=",
+      "Size": 540261
+    },
+    {
+      "Path": "resources/tilesets/Autotiles_Interior & Terrain.png",
+      "Checksum": "lJpheP7AG3M=",
+      "Size": 37254
+    },
+    {
+      "Path": "resources/tilesets/Autotiles_Water & Lava 2.png",
+      "Checksum": "BLkpUAIdcqk=",
+      "Size": 18242
+    },
+    {
+      "Path": "resources/tilesets/Autotiles_Water & Lava.png",
+      "Checksum": "PeP1C9l/IbE=",
+      "Size": 13603
+    },
+    {
+      "Path": "resources/tilesets/Autotiles_Water.png",
+      "Checksum": "XDEbSVGUtxY=",
+      "Size": 13711
+    },
+    {
+      "Path": "resources/tilesets/bridges.png",
+      "Checksum": "gCj0PIVU/Pw=",
+      "Size": 4297
+    },
+    {
+      "Path": "resources/tilesets/B_HouseExteriorTiles.png",
+      "Checksum": "mRJWYcMYMko=",
+      "Size": 18866
+    },
+    {
+      "Path": "resources/tilesets/B_HouseExteriorTiles_1.png",
+      "Checksum": "mRJWYcMYMko=",
+      "Size": 18866
+    },
+    {
+      "Path": "resources/tilesets/B_HouseExteriorTiles_1_B.png",
+      "Checksum": "dvhGPUJnni4=",
+      "Size": 19096
+    },
+    {
+      "Path": "resources/tilesets/B_HouseExteriorTiles_2.png",
+      "Checksum": "YcjVOW+l0As=",
+      "Size": 19512
+    },
+    {
+      "Path": "resources/tilesets/B_HouseExteriorTiles_2_B.png",
+      "Checksum": "DiNOzkSEjls=",
+      "Size": 19745
+    },
+    {
+      "Path": "resources/tilesets/Caves Etc.png",
+      "Checksum": "u/lTRApYUZk=",
+      "Size": 1070861
+    },
+    {
+      "Path": "resources/tilesets/C_OutSide_Nature.png",
+      "Checksum": "Kih+wlA9w2c=",
+      "Size": 31148
+    },
+    {
+      "Path": "resources/tilesets/decorations.png",
+      "Checksum": "Qy6Sc6Ody+0=",
+      "Size": 1447
+    },
+    {
+      "Path": "resources/tilesets/Dungeon_Tileset.png",
+      "Checksum": "Hp3LuM9ys+U=",
+      "Size": 48647
+    },
+    {
+      "Path": "resources/tilesets/D_Inside_House.png",
+      "Checksum": "DS9RaGVQ2To=",
+      "Size": 40079
+    },
+    {
+      "Path": "resources/tilesets/D_OutDoor.png",
+      "Checksum": "GUeQ2dH/yXE=",
+      "Size": 25107
+    },
+    {
+      "Path": "resources/tilesets/forge.png",
+      "Checksum": "F1a9eiZP6ZU=",
+      "Size": 1283
+    },
+    {
+      "Path": "resources/tilesets/ground-decorations.png",
+      "Checksum": "py4CMQZIgSg=",
+      "Size": 1032
+    },
+    {
+      "Path": "resources/tilesets/Ground.png",
+      "Checksum": "IWVHPVWoSyE=",
+      "Size": 16464
+    },
+    {
+      "Path": "resources/tilesets/IceTileset.png",
+      "Checksum": "DJJBhzy4K6s=",
+      "Size": 34196
+    },
+    {
+      "Path": "resources/tilesets/Interior.png",
+      "Checksum": "ADNV4kPoM0Y=",
+      "Size": 28517
+    },
+    {
+      "Path": "resources/tilesets/ladder-earth.png",
+      "Checksum": "jpUJN3WnvNs=",
+      "Size": 1560
+    },
+    {
+      "Path": "resources/tilesets/ladder-grass.png",
+      "Checksum": "cX3+JDLWjnw=",
+      "Size": 1633
+    },
+    {
+      "Path": "resources/tilesets/ladder-soil.png",
+      "Checksum": "g/WYzCpCFwA=",
+      "Size": 1524
+    },
+    {
+      "Path": "resources/tilesets/Misc.png",
+      "Checksum": "VpUzuJ83mEU=",
+      "Size": 4113
+    },
+    {
+      "Path": "resources/tilesets/Orc Fence.png.png",
+      "Checksum": "m0ih7YjZfdY=",
+      "Size": 3837
+    },
+    {
+      "Path": "resources/tilesets/Overworld.png",
+      "Checksum": "GPmYMpDJWlM=",
+      "Size": 1072106
+    },
+    {
+      "Path": "resources/tilesets/Overworld_2.png",
+      "Checksum": "6cpCR3Fok3o=",
+      "Size": 11480
+    },
+    {
+      "Path": "resources/tilesets/pipo 1.png",
+      "Checksum": "ZncGvHgCqec=",
+      "Size": 122370
+    },
+    {
+      "Path": "resources/tilesets/pipo 2.png",
+      "Checksum": "caH5Vzi5e34=",
+      "Size": 6732
+    },
+    {
+      "Path": "resources/tilesets/pipo 3.png",
+      "Checksum": "I/n93OjOkCU=",
+      "Size": 118395
+    },
+    {
+      "Path": "resources/tilesets/rope_fence_tiles.png",
+      "Checksum": "i0mRvcujk1U=",
+      "Size": 1412
+    },
+    {
+      "Path": "resources/tilesets/RPG Nature Tileset Autumn.png",
+      "Checksum": "kR7BmVYJLTY=",
+      "Size": 15640
+    },
+    {
+      "Path": "resources/tilesets/RPG Nature Tileset.png",
+      "Checksum": "fGrQODrM0as=",
+      "Size": 34018
+    },
+    {
+      "Path": "resources/tilesets/ship.png",
+      "Checksum": "/1dwE2meC64=",
+      "Size": 21705
+    },
+    {
+      "Path": "resources/tilesets/Slanted Roofs.png",
+      "Checksum": "g6C4qG1FU5s=",
+      "Size": 9329
+    },
+    {
+      "Path": "resources/tilesets/Spiderweb.png",
+      "Checksum": "n2KcZ1e2mDU=",
+      "Size": 825
+    },
+    {
+      "Path": "resources/tilesets/stones.png",
+      "Checksum": "39J08MbU1/c=",
+      "Size": 6751
+    },
+    {
+      "Path": "resources/tilesets/Terrain.png",
+      "Checksum": "QMyR/6l805I=",
+      "Size": 19432
+    },
+    {
+      "Path": "resources/tilesets/tiles - tree - 32x32.png",
+      "Checksum": "AF98Mxsb7yQ=",
+      "Size": 9015
+    },
+    {
+      "Path": "resources/tilesets/tiles-fence-32x32.png",
+      "Checksum": "asEv47KdH4k=",
+      "Size": 2935
+    },
+    {
+      "Path": "resources/tilesets/tiles-grass-decoration-transparent-32x32.png",
+      "Checksum": "5itzhzE2yrE=",
+      "Size": 1941
+    },
+    {
+      "Path": "resources/tilesets/tiles-water.png",
+      "Checksum": "nIBS1kqRPbQ=",
+      "Size": 2702
+    },
+    {
+      "Path": "resources/tilesets/tileset_dungeon.png",
+      "Checksum": "cLP/6/V4beY=",
+      "Size": 9696
+    },
+    {
+      "Path": "resources/updater/background.png",
+      "Checksum": "1mFdGuaCagU=",
+      "Size": 803598
+    },
+    {
+      "Path": "resources/updater/font.xnb",
+      "Checksum": "qiKSJ9HOIMw=",
+      "Size": 689774
+    },
+    {
+      "Path": "resources/updater/fontsmall.xnb",
+      "Checksum": "KWefE7TuLtY=",
+      "Size": 423534
+    },
+    {
+      "Path": "resources/updater/progressbar.png",
+      "Checksum": "Wjzu0JMeR3w=",
+      "Size": 11264
+    }
+  ],
+  "StreamingSizeCutoff": 1048576
+}
